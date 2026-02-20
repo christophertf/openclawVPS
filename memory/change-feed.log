@@ -1,3 +1,4 @@
 # memory/change-feed.log
 // Antigravity & CLAW
 // Whenever you make an edit, append a short one-line description to the *bottom* of this file describing *who* made the change, *why* it was made, and *what* was changed.
+2026-02-20T23:37:34Z CLAW: standardized PRE-FLIGHT-SYNC.md path references and added scripts/preflight.sh for one-command sync checks.
