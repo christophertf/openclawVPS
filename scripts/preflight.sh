@@ -8,8 +8,10 @@ echo "== Current branch =="
 git branch --show-current || true
 
 echo
-echo "== Git status (short) =="
+echo "== Sync status / Git status (short) =="
+git fetch origin --quiet || true
 git status --short || true
+git status -uno | grep -E "ahead|behind|diverged" || true
 
 echo
 echo "== Changed files (working tree) =="
