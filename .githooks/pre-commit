@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Require change-feed entry when committing significant workspace changes.
+staged_files=$(git diff --cached --name-only)
+[[ -z "$staged_files" ]] && exit 0
+
+# Ignore the change-feed file itself and docs that do not need feed entries.
+requires_feed=$(echo "$staged_files" | grep -Ev '^(memory/change-feed\.log|README\.md)$' || true)
+
+if [[ -n "$requires_feed" ]]; then
+  if ! echo "$staged_files" | grep -q '^memory/change-feed\.log$'; then
+    echo "❌ pre-commit blocked: stage memory/change-feed.log with a one-line summary of this change." >&2
+    echo "Changed files:" >&2
+    echo "$requires_feed" >&2
+    exit 1
+  fi
+fi

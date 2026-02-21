@@ -2,3 +2,4 @@
 // Antigravity & CLAW
 // Whenever you make an edit, append a short one-line description to the *bottom* of this file describing *who* made the change, *why* it was made, and *what* was changed.
 2026-02-20T23:37:34Z CLAW: standardized PRE-FLIGHT-SYNC.md path references and added scripts/preflight.sh for one-command sync checks.
+2026-02-21T00:12:17Z CLAW: switched active branch back to main, added tracked baseline docs, added .gitignore, and enforced change-feed logging via repo pre-commit hook (.githooks).

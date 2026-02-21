@@ -4,6 +4,10 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 
+echo "== Current branch =="
+git branch --show-current || true
+
+echo
 echo "== Git status (short) =="
 git status --short || true
 
