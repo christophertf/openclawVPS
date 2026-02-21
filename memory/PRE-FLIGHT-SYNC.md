@@ -10,7 +10,7 @@ If we don't look at `memory/change-feed.log` before making decisions, one of us 
 ### Pre-Flight Checklist
 Before modifying code or system state, you must:
 
-1. **Check Git Status**: Run `git status` and `git diff --name-only` to see what has changed recently.
+1. **Check Branch + Git Status**: Run `git branch --show-current`, `git status`, and `git diff --name-only` to confirm where you are and what changed. You must never commit directly on `main`; create a task branch first.
 2. **Check the Feeds**: Read `memory/change-feed.log` to quickly understand *why* things changed and *who* changed them.
 3. **Write to the Feeds**: When you (Antigravity or CLAW) make a significant change, structure, or state edit:
    - **Antigravity**: Write a one-line summary of what you did and why into `memory/change-feed.log`.
