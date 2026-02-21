@@ -87,16 +87,31 @@ Use this as the work-through order for “what we have”.
 11. Session/subagent tool smoke tests
 12. Git workflow enforcement (hook + branch protections) re-check
 
-## 6) Skill smoke-test results (this session)
+## 6) Confirmed-ready tools (explicitly confirmed with Chris)
+
+- `weather` — confirmed accessible + usable in live run for Sacramento, CA (2026-02-21 UTC session).
+  - Data source path used: `wttr.in`
+  - Current conditions: supported (temp, feels-like, humidity, wind, pressure, visibility, condition)
+  - Forecast horizon: 3 days via JSON (`format=j1`)
+  - Time resolution: 8 hourly points/day (3-hour steps)
+  - Extra fields available: astronomy (sun/moon phase, rise/set), UV, snow, precip
+  - Practical limits: no historical weather archive, no severe-alert authority, no deep meteorological modeling
+
+- `healthcheck` — confirmed accessible + usable in live run (2026-02-21 UTC session).
+  - `openclaw security audit --deep` executed successfully.
+  - Result summary: 0 critical, 3 warnings, 1 info.
+  - `openclaw update status` executed successfully (channel: stable; install: pnpm).
+
+## 7) Skill smoke-test results (this session)
 
 - `tmux`: PASS (created/captured/killed temp session)
 - `healthcheck`: PASS (OpenClaw status/diagnostics command executed)
 - `weather`: PASS (network fetch path executed; no error)
-- `openai-whisper-api`: READY (API key detected; functional transcription test pending sample audio input)
+- `openai-whisper-api`: SHOULD WORK (API key detected), NOT TESTED YET (defer live test until first real need)
 - `openai-image-gen`: READY (skill eligible; generation test pending explicit image prompt run)
 - `skill-creator`: READY (skill eligible; functional test should be done when we create/update a real skill artifact)
 
-## 7) Boundaries for this doc
+## 8) Boundaries for this doc
 
 - This file is “stock-first”: only default platform/workspace capabilities.
 - No expansion/custom plugins beyond what is already present.
