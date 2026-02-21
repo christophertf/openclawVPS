@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Block direct local commits on main to avoid local/remote divergence.
+if [[ "$(git branch --show-current)" == "main" ]]; then
+  echo "❌ pre-commit blocked: Cannot commit directly to local main branch. Create a task branch first (e.g., chore/...)." >&2
+  exit 1
+fi
+
 # Require change-feed entry when committing significant workspace changes.
 staged_files=$(git diff --cached --name-only)
 [[ -z "$staged_files" ]] && exit 0
