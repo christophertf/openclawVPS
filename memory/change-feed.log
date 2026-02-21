@@ -6,3 +6,4 @@
 2026-02-21T00:20:01Z CLAW: added pre-commit protection to block direct local commits on main; set global git author to OpenClaw Bot for clear commit attribution.
 2026-02-21T00:22:37Z Antigravity: appended session summary (openclaw setup, telegram test, workflow sync rules & repository linkage) to memory/2026-02-21.md.
 2026-02-21T00:33:14Z Antigravity: added `scripts/sync.sh` to handle post-PR merging synchronization automatically, and upgraded `scripts/preflight.sh` to check remote drift.
+2026-02-21T00:50:00Z Antigravity: Chris is performing a full system restart (VPS and local PC) to bounce the stuck IDE extensions and to verify that all OpenClaw/Git/SSH configurations persist correctly across reboots without error.
