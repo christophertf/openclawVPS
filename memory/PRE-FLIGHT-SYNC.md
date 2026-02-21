@@ -16,8 +16,9 @@ Before modifying code or system state, you must:
    - **Antigravity**: Write a one-line summary of what you did and why into `memory/change-feed.log`.
    - **CLAW**: Write a similar summary. Keep it brief.
 
-### One-command pre-flight
+### One-command Checks
 
-Run `scripts/preflight.sh` to execute the full pre-flight check quickly.
+- **Pre-flight check**: Run `scripts/preflight.sh` to execute the full state check.
+- **After a GitHub PR is Merged**: Run `scripts/sync.sh` to automatically fetch, switch to `main`, pull the latest changes, and delete old task branches. 
 
 **(Optional but Recommended)**: Consider adding `memory/change-feed.log` to a heartbeat check or automated watcher in the future to ensure neither of us misses a beat.

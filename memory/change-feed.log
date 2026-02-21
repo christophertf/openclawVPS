@@ -5,3 +5,4 @@
 2026-02-21T00:12:17Z CLAW: switched active branch back to main, added tracked baseline docs, added .gitignore, and enforced change-feed logging via repo pre-commit hook (.githooks).
 2026-02-21T00:20:01Z CLAW: added pre-commit protection to block direct local commits on main; set global git author to OpenClaw Bot for clear commit attribution.
 2026-02-21T00:22:37Z Antigravity: appended session summary (openclaw setup, telegram test, workflow sync rules & repository linkage) to memory/2026-02-21.md.
+2026-02-21T00:33:14Z Antigravity: added `scripts/sync.sh` to handle post-PR merging synchronization automatically, and upgraded `scripts/preflight.sh` to check remote drift.
