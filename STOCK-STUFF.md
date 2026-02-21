@@ -50,15 +50,18 @@ Notes:
 - `IDENTITY.md` is part of the stock workspace model and is active.
 - `canvas/` is an optional stock workspace folder for node Canvas UI files (not required to exist until used).
 
-## 3) Stock skills currently installed (from available skills list)
+## 3) Stock skills currently ready (eligible on this host)
 
-- `weather`
+From `openclaw skills list --eligible`:
+
 - `healthcheck`
-- `tmux`
-- `mcporter`
+- `openai-image-gen`
 - `openai-whisper-api`
-- `clawhub`
 - `skill-creator`
+- `tmux`
+- `weather`
+
+Note: `mcporter` and `clawhub` binaries exist on disk, but the OpenClaw skill eligibility check currently marks those bundled skills as missing requirements in this host profile.
 
 ## 4) What is already configured/working in this build
 
@@ -84,7 +87,16 @@ Use this as the work-through order for “what we have”.
 11. Session/subagent tool smoke tests
 12. Git workflow enforcement (hook + branch protections) re-check
 
-## 6) Boundaries for this doc
+## 6) Skill smoke-test results (this session)
+
+- `tmux`: PASS (created/captured/killed temp session)
+- `healthcheck`: PASS (OpenClaw status/diagnostics command executed)
+- `weather`: PASS (network fetch path executed; no error)
+- `openai-whisper-api`: READY (API key detected; functional transcription test pending sample audio input)
+- `openai-image-gen`: READY (skill eligible; generation test pending explicit image prompt run)
+- `skill-creator`: READY (skill eligible; functional test should be done when we create/update a real skill artifact)
+
+## 7) Boundaries for this doc
 
 - This file is “stock-first”: only default platform/workspace capabilities.
 - No expansion/custom plugins beyond what is already present.

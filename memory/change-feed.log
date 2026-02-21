@@ -8,3 +8,4 @@
 2026-02-21T00:33:14Z Antigravity: added `scripts/sync.sh` to handle post-PR merging synchronization automatically, and upgraded `scripts/preflight.sh` to check remote drift.
 2026-02-21T03:29:20Z CLAW: ran final prior-stage verification checks and recorded wrap-up pass results in memory/2026-02-21.md.
 2026-02-21T03:39:06Z CLAW: created STOCK-STUFF.md inventory from docs (stock capabilities + verification checklist).
+2026-02-21T03:46:40Z CLAW: ran stock-skill eligibility + smoke tests and updated STOCK-STUFF.md with corrected ready list and test results.
