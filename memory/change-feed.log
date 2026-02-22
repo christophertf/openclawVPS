@@ -13,3 +13,4 @@
 2026-02-21T03:54:37Z CLAW: expanded weather entry in STOCK-STUFF.md with tested capability limits (3-day horizon, hourly granularity, supported fields, practical constraints).
 2026-02-21T04:01:27Z CLAW: recorded Chris preferences for 24-hour time, Celsius default, and timestamp-first sequencing in USER.md + daily memory.
 2026-02-21T04:28:07Z CLAW: marked openai-whisper-api as should-work/not-tested and logged future task to migrate transcription to local/offline path.
+2026-02-22T09:31:14Z CLAW: finalized Discord additive setup notes for session closeout; kept Telegram as primary private lane and documented channel-isolated Discord context usage.

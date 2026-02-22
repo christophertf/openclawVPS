@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** Chris
 - **Pronouns:** _(unknown)_
 - **Timezone:** _(unknown)_
-- **Notes:** First connected via Telegram on 2026-02-20. Prefers concise responses that do not end with speculative “next thing” suggestions unless explicitly requested. Prefers 24-hour time format and Celsius for weather/temperature context; uses timestamps heavily for factual sequencing and reality-checking workflows (including CCTV timeline cross-checks).
+- **Notes:** First connected via Telegram on 2026-02-20. Prefers concise responses that do not end with speculative “next thing” suggestions unless explicitly requested. Prefers 24-hour time format and Celsius for weather/temperature context; uses timestamps heavily for factual sequencing and reality-checking workflows (including CCTV timeline cross-checks). Guiding principle: “if it ain’t broke, don’t fix it” (favor non-intervention when something is functioning).
 
 ## Context
 
