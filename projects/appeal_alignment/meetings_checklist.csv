@@ -1,0 +1,15 @@
+date,duration,audio,agenda,transcript_raw,transcript_txt,transcript_srt,stage1_items,stage2_llm,aligned_output,status,folder
+2024-01-10,01h 27m,N,Y,N,N,Y,N,N,Y,ALIGNED,meetings/2024-01-10/
+2024-02-21,01h 48m,N,Y,N,N,Y,N,N,Y,ALIGNED,meetings/2024-02-21/
+2024-03-13,01h 19m,N,Y,N,N,Y,N,N,Y,ALIGNED,meetings/2024-03-13/
+2024-06-12,03h 01m,N,Y,N,N,Y,N,N,Y,ALIGNED,meetings/2024-06-12/
+2024-08-14,02h 22m,N,Y,N,N,Y,N,N,Y,ALIGNED,meetings/2024-08-14/
+2024-10-09,01h 10m,N,Y,N,N,Y,N,N,Y,ALIGNED,meetings/2024-10-09/
+2024-11-13,01h 17m,N,Y,N,N,Y,N,N,Y,ALIGNED,meetings/2024-11-13/
+2024-12-11,01h 41m,N,Y,N,N,Y,N,N,Y,ALIGNED,meetings/2024-12-11/
+2025-01-08,02h 09m,N,Y,Y,Y,Y,N,N,Y,ALIGNED,meetings/2025-01-08/
+2025-04-09,03h 00m,N,Y,Y,Y,Y,Y,Y,Y,COMPLETE,meetings/2025-04-09/
+2025-05-14,02h 14m,N,Y,Y,Y,Y,N,N,Y,ALIGNED,meetings/2025-05-14/
+2025-06-11,02h 27m,N,Y,Y,Y,Y,N,N,Y,ALIGNED,meetings/2025-06-11/
+2025-08-13,01h 16m,N,Y,Y,Y,N,N,N,Y,ALIGNED,meetings/2025-08-13/
+2025-09-10,03h 25m,N,Y,Y,Y,N,Y,N,Y,ALIGNED,meetings/2025-09-10/

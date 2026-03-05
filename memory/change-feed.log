@@ -14,3 +14,4 @@
 2026-02-21T04:01:27Z CLAW: recorded Chris preferences for 24-hour time, Celsius default, and timestamp-first sequencing in USER.md + daily memory.
 2026-02-21T04:28:07Z CLAW: marked openai-whisper-api as should-work/not-tested and logged future task to migrate transcription to local/offline path.
 2026-02-22T09:31:14Z CLAW: finalized Discord additive setup notes for session closeout; kept Telegram as primary private lane and documented channel-isolated Discord context usage.
+2026-02-25T23:21:00Z CLAW: saved Chris local desktop hardware/software specs from screenshot into TOOLS.md and memory/2026-02-25.md.

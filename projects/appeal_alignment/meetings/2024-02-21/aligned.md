@@ -1,0 +1,895 @@
+# Hearing Items — transcript
+
+## Item 2 — Notice & Order Appeal
+**Alignment confidence:** 1.00
+
+### Transcript (verbatim chunks)
+```
+item number two, 12th Street, LLC. You're more than welcome to stay on there or sit there, either one that's whatever is easier for you. I appreciate that. Thank you. So, I'll hold on one second. Oh, did you have just a procedural question? Okay. She'll go ahead and swear you in. Oh. Can I get all parties to please raise your right hand and answer the following question?
+
+Do you solemnly swear on our penalty of poetry that the testimony and evidence you give at this
+hearing shall be the truth, the whole truth and nothing but the truth? Thank you. All right. Sorry. Okay. Spector Holmes? Is that Bruce? Is that you? Yeah. Go ahead. You
+can go ahead. I apologize. Can you move the mic a little closer or is it even on? The Notice and Order appeal, the case was open on 8, 18, 2023. Current case status is hopefully going to close tomorrow because we have a building permit
+scheduled for final inspection tomorrow, but currently open. An initial inspection was performed on 8, 18, 2023 by Building Inspector Bruce Holmes.
+
+Inspection identified the property was in violation of Sacramento City Code section. 8, 9, 6, 0.110L. Building structure violation whenever any building or structure has been constructed,
+exists or is maintained in violation of any specific requirement or prohibition applicable to
+such buildings or structure provided by regulations specified in Title 8 and 15 of this code,
+or any law or ordinance of this state or city relating to the condition, location or structure
+of buildings, structure erected without prior approvals of plans and issuance of required building
+permits. Additionally, 17.604-400A. Resources nominated as landmark contributing
+resources for the purpose of this chapter.
+
+Resources nominated as landmarks and contributing resources
+under section 17.604.220 shall be treated as if they are landmarks and contributing resources
+on the Sacramento Register. In development projects involving these resources,
+shall be subject to staff review under general direction of the preservation director,
+a preservation director hearing, or a preservation commission hearing pursuant to section 17.808.100. No outreach to preservation staff occurred prior to the building of this patio cover on this
+landmark designated parcel. Additionally, 8.96.110P electrical hazard. Festion lighting has been added onto the under unpermitted patio cover.
+
+Citizens can be seen
+using the unpermitted cover patio areas that were supposed to be barricaded from use. Case chronology and background. August 18, 2023 at 10.30 in the morning. Following a call,
+I placed to the city preservation staff with regards to a structure I observed being erected
+at a historical landmark property at 8.1612 Street, informing them that I had no record for any
+activity in RSL permit software program and was wondering if they had had any contact from anyone
+with regards to adding an outdoor dining that meant to put pergola instead of pergoda to this
+property.
+
+Preservation planner Henry Voice stated he had seen the structure but there had been
+no contact with their office. I advised him I would perform a site visit and investigate the
+matter. 1345 hours I returned to the site and spoke with three individuals working on the
+installation. One of them stated that they were told no permits were required. I asked for
+documentation for that statement as to who told them that where and when did that occur
+in that until such time as that can prove those statements. I was posting a stopwork notice on
+this historical landmark property and then posted the red tag and took photos.
+
+Later on the same day
+at 145 or 245 hours in the afternoon I returned a phone call I received from the business owner
+of Jim Denney's and Gina Gaito. She stated she had a meeting at 3rd Richard's in April with an
+individual name that was not provided. They assured her that based on the plan she brought with her
+that no permit for the structure would be required. Additionally she stated that said individual
+had actually came out to the site and inspected the forms and footings for the patio slab prior to
+the concrete floor. The premise for her not being no permit being required was the fact that
+the pergola structure was not attached to the building.
+
+Based on my research of the
+accele program I could not locate any records that supported these claims by the business owner. I explained to her that I will need further verification of documentation of what she is
+stating to move forward with investigating her claims. I also indicated to her that a
+prelim letter has been sent to the property owner based on my initial investigation. The current stopwork order is to be respected. On
+same day I contacted Matt Harder with development engineering. He is one of their encroachment
+investigators and I questioned him regarding had he had any approach regarding the
+pergola structure on this property.
+
+Matt remembered some discussion of this property and then not
+too distant past regarding whether or not it would need any permits. As he recalls the business owner
+was informed that given its location within the property lines of the parcel it would not require
+any encroachment permit. However, it would require a building permit. In between the dates of 823 and 831 of August, this past August there was a flurry of email
+activity between HDB supervisor staff, myself, preservation staff and the business owner. It's too much to go into here so I've just indicated it is in the case notes of this case.
+
+The results of all those emails was there was a site meeting with the property owner set up
+from 9123. At that site meeting it was set up with the business owner, myself, Sean DeCorsi,
+the preservation director and Henry DeFouce, one of the preservation planners to discuss how to
+get this project back on the rails. A previous determination had been made that the business owner
+had been misled by the parties that she had hired to do this structure. The business was scheduled
+for a soft opening on the following weekend and the owner was concerned about the ability to have it.
+
+There was a decision by higher CDD management staff to provide for the use of the diner space
+or for having a soft opening and being able to serve meals. However, that the area covered by
+the pergola was to be barricaded and noticed as being off limits to all parties. The door
+entering and exiting from the public right of way was to be the only use usable path with no
+dining being allowed to occur under the pergola. Additionally, as time was of the essence,
+the business owner was to commit to getting the project in for preservation review followed by
+plan check once approved by preservation.
+
+She was to obtain the services of an engineer or design
+professional to see if it was feasible to have the existing structure be modified for building
+code compliance purposes addressing the deficiencies in the as-built condition. Following months regular dry buys were conducted by myself over a number of months and I did not
+observe any progress being made towards the resolve of the situation. At time, citizens could
+be scenes dining or sitting under the pergola. Additionally, fashion lighting had been added
+to the structure despite the stop work notice still being enforced as there was no issued permit.
+
+Finally, in late January of 2024 with absolutely no progress having been made, a notice in order
+was issued. This was quickly followed by the contractor working for the property owner coming
+into the building department to obtain a permit to remove the unpermitted structure. On February 1st, a permit was issued on 2402-402 which you have a copy of in your syllabus. This issued for housing case 203-031167 removal of unpermitted patio cover benches and electrical. Postbases will need to be cut off and grind it smooth.
+
+Preservation allowed for the perimeter benches
+to remain provided that the cutoff posts that were being used to support posts for the
+existing structure were finished off with four-sided beveling or rounding over of the caps. As of 215-24, all work appears to be nearer in completion awaiting final inspection and as I say,
+having checked my records for my inspections tomorrow, it is scheduled for final inspection which I
+will assume based on my already present observations it will pass. Notice of less pizzenes. When I say it was done, you see in your records, I present it
+you with a copy that was forwarded to the county. It has not been recorded as yet. I have not
+been able to.
+
+That's because this turnaround between the notice and order, the permit being issued
+immediately thereafter and where we are right now, that process with the county sometimes can take
+upwards of a month. Excuse me. Property owner was contacted prior to issuing a notice and order. The preliminary letter was sent 822-23. The notice and order was sent to the property owner
+address listed on the county records. It was effectively served by Substitute Service on 126. The appellant has received the information and he did receive a copy of it for me.
+
+The boilerplate in our staff recommendations is a little overborn for what we're here for at
+this point because it says finding the property and his violated the provision of the
+after 8.96 and or 8100 of the code. That's the nature of the complaint. I wish we had language to allow us to point the file at business owner. Are you removing section 2 from your recommendation? I would like to put that. I mean, ultimately property owners of the one. I get that. I'm saying your staff recommendation. I'm assuming you're leaving at item 1 and you're
+removing. I'm asking. I'm not telling you. So I'm asking are you removing 2 and 3?
+
+I would like them to remove 2 and 3 because we already have the permit issued and like I said
+by tomorrow at this time this is going to be a close time and I do have the violation list case
+photos permit history and the permit with you title owner and the least hidden. Thank you and
+before we get started I apologize. I didn't get your name representing 12th street LLC. I'm sorry. I'm sorry. Can you turn? Oh, yeah. Is it a question? It was Thomas. What? J. Negro. Okay. So we've read your appeal. So I'm just going to read you just two lines from my
+opening just as a reminder because I in reading your appeal.
+
+I'm just reminding you that we're
+here to determine whether the owner of the building is structured the case before us this evening
+has violated the provisions of chapters 8.96 of the city of Sacramento code, the housing code,
+or the building code. So this case that you're appealing right now is non fee related just to
+your where we can't even if we don't have the authority to waive or change any fees that would be
+a secondary appeal. This is just for the notice and order. I just wanted to make sure you are aware
+of that before you start. I wasn't, but I'm I mean interacted with a couple of times now. Bruce Bruce almost said that.
+
+I had to say that I truly believe that whatever he wants to do
+would be the right thing. So I can only tell you that you as a part of the LLC. You can hold
+your tenant responsible. You can use you can actually pass those fees on to your tenant. No,
+I appreciate that that concept, but considering where the tenant is, where she's been and
+and what she's facing, that wouldn't be something I would do. No, I just want to just I'd sort of
+say that. But thanks for you know. So any any comments that you want? What he said. Okay. Board any questions? Chapter resolution finding the property owner has violated the provisions of chapter 8.96
+for 8.100 of the Sacramento City Code.
+
+Or property located at 816 12th Street, Sacramento,
+California, parcel number 006-0046-001-000002. So I don't know. He's known on the second one. We'll know in the appeal. Hold on. Sorry. Is it me? A second. And Tapleyon? Yes. Chamberlain? Yes. O'Brien? Yes. All right. For this, the city is found in favor of the of the system. I'm sorry. Let me start over. For this, the board is found in favor of the city for the
+notice and order. You still have an opportunity if you would like. You'll be in correct me if I'm wrong. You'll be mailed out a packet if you'd like to appeal the fees. That would be the next appeal if you
+would like. Thank you very much. All right. Item number three.
+```
+
+_Notes: Initial discussion and procedural setup for the Notice & Order Appeal._
+
+## Item 3 — Notice & Order Appeal
+**Alignment confidence:** 1.00
+
+### Transcript (verbatim chunks)
+```
+item number three to please raise your right hand and answer the following question? Do you solemnly swear on a penalty of poetry that the testimony and evidence you give it this hearing
+shall be the truth, the whole truth, and nothing but the truth. Inspector proc. Go ahead. My name is Elijah proc. I'm a city building inspector for the housing and dangerous buildings division. Today's date is February 21st, 2024. This is in that matter of agenda item number three. Case number five. Property owner Shannon Sutherland.
+
+Trustee of the
+property address is 4615 Henry way, excuse me, Henry way, Sacramento, California,
+and nine five eight one nine parcel number is a zero zero eight zero four two one zero one zero. This type of report is a notice in order appeal. This case was opened on March 27th 23. Current case status it is open. This appeal is limited to the notice in order to pay costs and penalties
+only. In initial inspection was performed on May 9th by myself a building inspector proc.
+
+Inspection identified the property wasn't violation of the Sacramento City Code sections as followed
+but not limited to eight one hundred one ninety which requires building permits to be obtained prior to
+building a large storage shed and gazebo backyard also for garage conversion and utility room
+back to original condition and remodel of the downstairs bathroom spa hookup also eight ninety six one
+ten L which is a building structure violation which is that any work done without the benefit
+of required permit must be removed or be properly permitted and approved by the city of Sacramento.
+
+Other building structure electrical plumbing mechanical code violations may be identified
+upon further inspection. Here is coverage without inspection shall be exposed for said inspections
+and as deemed necessary by a building inspector of the city of Sacramento. All such works shall be
+performed in accordance with any applicable codes and ordinances.
+
+Did you receive the complaint
+of work without permit at the subject location upon initial inspection the complaint was found valid
+from public right away observed the following but not limited to converted garage with new vinyl
+windows sold at its west elevation detached large storage shed and gazebo backyard out the
+lighting and other electrical outlets observed out the backyard as well. No permits and file for any of
+the work specified. The off-describe property was determined to be in violation of title eight one
+hundred of the Sacramento city code and to be a hazard unsafe in a public newsrooms by definition.
+
+Subsequently I was contacted by the owner of record and explained the necessary permit
+requirements and expectations of moving forward to address all on-premise work with an option to
+remove all such installations. I want to agree to submit the required plans and obtain building
+permits to legalize all on-premise work in a timely manner. The notice note was issued on December
+7th 2023 for failure to obtain required permits as required. The validity of the notice in order
+is being appeal today and I'd like to just state again this issue before us tonight is that the
+property was in violation at the time of the issues of the notice in order.
+
+The cloud was recorded the circumvented county assessors office on May 30th 23. Property owner was contacted prior to issue the notice in order. The notice in order was sent
+to the property owner address listed on on the county assessors records December 7th 23
+and was effectively served by conspicuous posting of the notice on front of the property
+and simultaneously mail in it by both certified mail and return receipt requested and first
+last mail which was not returned. The appellant has received the information being presented this
+evening. Staff recommends that the board adopts a decision.
+
+Finding the property owner has
+violated the provisions of chapter 896 and or 8100 of the Sacramento City Code. In order in
+the property owner to obtain a permit to correct the dangerous conditions or demolish the structure
+within 30 days of the date of this decision. In order in that if the property owner fails
+refuses to correct the dangerous conditions or demolish the structure within the set time
+fourth in this decision that the city of Sacramento may repair demolish or secure the structure
+or institute an action to compel compliance with the order. For the property known as 4615
+Henry Wei Sacramento California 95819 parcel number 008 0 421 010 0 police documents attached thank you.
+
+Sorry one second so inspector proc sorry before I move on this is in his slightly different and maybe
+I'm just not good at reading today but normally I have the chronology so I'm not sure if I'm
+reading this can you walk me through what I'm missing. Normally paragraph has a chronology date so
+I get that this case was open yes and normally each paragraph has a chronology date so I'm
+I'm confused and maybe I'm missing it on here but it sounds like this case started on May 9th
+or I'm sorry March 27th is when you opened it you did the initial inspection on May 9th but
+that was the last date that I got until we get to December 7th.
+
+Answer any questions so how about
+I'll say what I'll come back to you. I have similar questions I'll say so do we want to hear
+yeah that's what I'm I'm thinking maybe they all help me with that understanding because I'm not I'll
+just listen sorry and I'm sorry you are Shannon miss Sutherland. Is it on there we go yes I'm
+Shannon Sutherland the owner of the property thank you for your time.
+
+I have some more questions
+myself and so I received a business card on May the 9th about the unpermitted remodel
+brought my permit with me I pulled a permit in 1996 so the complaint which I have reasonably
+nothing that you can do anything about that neighbor who when I had my house for sale a
+ledge that I my way litter had listed it as a five bedroom four bath house and I'm only permitted
+for a four bedroom three bath house which is what I have my way litter was creative that'll be a
+separate issue um it so I received the business card on my door on May the 9th asking me to
+contact mr.
+
+proc about the unpermitted remodel I called him that day and I emailed him that day
+and sent him copies of my permit I didn't hear anything from him and I thought the matter was
+settled on July 14th I received a bill which I now understand was for the notice and order which
+I never received until December the 7th I called mr. proc on July 14th never heard back from him
+spent 45 minutes on three one one trying to find out who his supervisor was so I could
+escalate this because I did not want to ignore this situation
+found out it was a dead person and or mr.
+
+lyker called both of them you have exhibits in the
+package did you get the magna card okay um you have emails in there indicating that I had
+contacted mr. Pearson as well as mr. lyker and mr. proc and you have a received any
+response finally on the 24th of July within the message 9th third attempt I finally got a call
+from mr.
+
+proc how do I validate my permit I had to let them in my house I let the hornets in the house
+and once it was pretty much established that my permit matched the complaint that I had the garage
+had already I bought the house in 92 it was already living space and my architect is here did the
+drawings in 96 and drew that it was living space so the city was on notice in 96 that it had already
+been designated as living space there wasn't a amendment that did not make it into the records and
+I'm prepared to sit it made up a plan amendment but the bathroom has been there since 1996 with the
+shower I can get into the other details if you'd like me to I mean I'll add cases come in front of us all
+the time about something that was done 10 20 30 years ago it's still ultimately the responsible
+owner at that time to have got it permitted so that I that I understand I'm still going to have
+some questions but I'm going to turn it over to mr.
+
+lemos first looks like you have a question
+for the record we will say in 1996 there was a permit to convert the garage to usable space with a
+bathroom with a toilet issue is there was no shower on those plans and their architects is
+off and they are now from what I understand is going to submit drawings with a shower added on so
+the original notice that said it was unpermitted roach conversion with the assistance of the
+property owner there is a permit it just did not have a shower in the bathroom the water closet
+no what if the shower was inspected do we know if the city has no record of that there's no record
+that says they shower was inspected that there were plans submitted for the plumbing and such
+of a shower and pan for the water closet itself with a plumbing inspection for our conversion like
+that the inspection record wouldn't really differentiate whether plumbing for a toilet versus a
+shower that kind of detail really isn't included in the inspection record it's included on the plans
+which in this case you're saying hour was missing from the plans correct that was it that would be
+the only evidence we would have is we had no plans of a shower for the inspector to follow during
+that inspection the note of the plumbing for that room would not have been inclusive of I'm looking
+at a toy that I'm looking at a joint on our pan plans or no identified inspections or approval
+of a shower at that time on those can we clarify then because I'm reading the
+following well does say but not limited to converted garage so the converted garage we do
+we're not concerned about at the moment it's been converted and we have that detached large
+storage said shed in gazebo and backyard outdoor lighting and other electrical outlets were
+observed throughout the backyard as well no permits on file so are we just talking about the
+bathroom today to be specific and you're both welcome to correct me we're talking about a
+shower that needs to be added on to the plans and be approved inspection approved we are talking
+about a hot tub electrical system and with electrical system we're talking about a gazebo with
+electrical we're talking about a shed with electrical for items as I believe we're speaking of
+that's the only part that I know and I'm reading this record on my right or wrong at this point
+yes and plans and permits have been applied for for each of these items correct correct
+but I guess were you done before I asked questions well yes and no so to your question was it
+inspected yes and the evidence that I have for that is on the the sheet that the city uses for
+the rough planning the rough electrical and they give dates of when they came through I have
+those dates and I have pictures of the area opened that correspond to the fact that it was
+opened and then subsequently inspected the other issue I'd like to raise is that my contractor
+is now your building inspector so you could call him I asked for him to be present because he
+was my contractor and I know he's built millions or thousands of other homes he may not
+specifically remember but he I have pictures of Mr.
+
+Canary on the property engaged in the
+construction that I was permitted for so I can establish that that it was inspected and final
+Mr. Delimos at this point if the board would like to for this one item if the board would like to
+speak to Mr. Canary canary to a hearing we may do that we have no testimony from Mr.
+
+Canary that he
+ever expected approved well he was the contractor he wouldn't have been the one who inspected
+and approved it from what I understand we have nothing that I know of as the building inspector
+approve these plans because there are no plans of it ultimately the city's side is that
+there are no plans for this it has to be included in the plans that they've had submitted
+which I believe they're doing or they have done because they were absent on the plans that were
+approved stamp and part of that building permit one item of the four that I forementioned that
+we are here for to say that was as noticed in order issued properly okay and I will mention
+yeah we won't get remind me if I don't get there but we can't talk about fees right now
+if you have any questions so at a point at a point that I'd like to you know having been involved
+in a major re-model of my home as you have may have been involved with you have plans that are
+posted at the site and you have an inspector that comes out and looks at the site and I
+your crystal ball is probably in the shop right next to mine but how is it that an inspector
+can come on to the property for almost two years from 96 and 97 and not say stop you don't have
+a shower here the answer I have to that because I've asked my contractors other contractors
+on my architect is that I didn't expand the space I simply flipped the toilet in this tub
+the shower and it was like the work was done correctly they didn't want to prevent progress go
+ahead and keep going okay that's just like how is it that didn't get I mean now I get Mr.
+
+proctor inspector prock is in 96 right exactly and honestly I didn't find out about it until Mr.
+
+came on with the property and was like that shower has been there since 1996 and I can prove it
+so while we don't have authority to make any ruling on fees I'm going to ask questions just
+for my own so I don't want just inspector prock have there been any fees associated with this yet
+a cloud is on the property that comes with a fee on title pulled that comes with a fee and
+then notice note itself that's a fee okay is there anything you want only the only the fees for
+the actual notice have been submitted so far if the property owner has photographs as she says
+and believes she submitted some of the rough it doesn't say that we inspected it but it's going to
+assist Mr.
+
+prock in his inspection of not having to expose that plumbing and such because there's
+photographs of it we've never said that the bathroom hasn't been there since 1996 we are simply
+saying there's nothing of record on those plans to say it was ever constructed there and for future
+it's going to come back again if it's not done correctly and leave her own architect or contractor
+engineer somebody said I left it off I'm going to go ahead and draw them in not part I get make it
+correct yeah okay I would I have discussion but before we start a discussion are there any other
+questions free no I have discussion for us I'd like to start I have the key kind of I'm not saying
+I'm not making it that I'd like to have an open discussion with three of us but I before I do
+that would you like to ask any more questions I have a question about the title report the timing of
+the title of the title or the cloud the pending enforcement action the list pendants being recorded
+back in May of 2023 yet the notice and order wasn't issued until December of 2023 usually you
+need to have a finding of a of a violation to start an enforcement action curious why the
+the list pendants was recorded the officer had identified the violations the property was for
+sale an active sale so as disclosure we recorded against the property saying that we have
+actions against the property it's not entities are anything else it's saying that the city has an
+action on this property is identified with a cloud for disclosure all the back to 2008 for
+closure crisis grand jury came back since these are to record as soon as possible to just give
+disclosure to any interested parties and that is also why we run a title report on when especially
+we have an LLC that early to make sure we are identifying and notifying all interested parties
+so to your point I received a bill and I have no idea what it was for you said you received
+that bill in January July 14 July of 2023 and despite my best efforts from May the 9th and
+three minutes of July I received no responses to what was happening and then when we set up an
+appointment Mr.
+
+Park and myself on July 26 and he and Mr.
+
+Travis I don't remember his last name
+came out that's when all hell broke loose and but it's like okay let's get this permitted I
+went down to the counter I took action and I'll spare you the details I think you have it in
+writing in the Magna Carta of my experience of trying to get these permits through I finally
+get it to a point where it's at the point where you're at least look at them to start making
+plan assessments permit assessments and then I get slapped with this note as an order
+all right thank you okay so these are my thoughts I'm not going to normally one of us would
+just do a motion but I'd like to have an open discussion thoughts are inspector proc is
+definitely found something that warrants a notice in order this hearing is just about a notice
+in order I agree in my mind that yes there is enough evidence from inspector proc for the notice
+in order however this is a more unique situation and while personally I think if I was to
+make the recommendation I would probably stay with the city on the notice in order however after
+I would highly recommend that the second appeal would be for the costs of the notice in order
+which I can't talk about now but that would be once this is over you're allowed to appeal any of
+the costs at that time so what I'm saying is I think there are issues there are obviously
+now I'm trying to cure those issues and that's and I'm not denying it's like let's let's get this
+you know let's help the citizen of Sacramento get this across the finish line I'm trying to play
+ball nope I get that and then to be penalized and I know you can't talk about the fees but I believe
+procedurally the procedure for issuing this notice in order has major flaws I think that
+what you're just saying is that there are issues but that doesn't mean that does not mean
+there isn't violations so basically what we're telling you is keep doing what you're doing because
+you're obviously going in the right direction in here for men you're going to get everything
+straightened out they'll figure out what was done in 96 and 97 and then you'll have a full
+picture of what needs to get done right and then the appeal that we can't talk about is your remedy
+because really there is violations and that's really what all we're talking about tonight
+and there's there's other opportunities to hear this so all we're telling you is that you know
+nobody says you're not doing right thing nobody says you're not trying to do the right thing
+but we need to figure that all out does that make sense to you I'm also encouraging you to
+appeal I'm trying this can I say that I'm just going to say I encourage you to file your second
+appeal when you're up can I say that all right look at the attorney I may redact you just did and I
+thank you yeah I wasn't sure if you were getting the hint no I can pick up what you're putting down
+um one question and I have many questions but on the case details it says that the permits were
+issued can I see those permits where are they as the permit been issued it says it says on the
+case history and every time I go on to the acela it says do not issue the permits because this
+is a dangerous housing so how do I get the permits the repellents looking at a brief from our
+citizen sir so whereas that's permit issued that's Elijah the next action saying are the permits
+issued his next action action in the system is to check permits so we put in their permits issued
+and then our side looks what we see is check to see if permits have been issued yet on the citizen
+side all they see is the first two words that's that's what she is see so have you applied for a permit
+oh multiple times as the permit been approved no not yet okay I believe they're in cycle 2 cycle
+2 uh lost correction cycle 2 corrections what you should do is January 29th we're waiting on
+the response from the design professional yeah there's so they're still in plan check um cycle 2
+so we'll spend back to the time professional to do corrections but yeah what it's weird when
+you look at the citizen serve or you look at acela um on the citizen side it'll give you a brief
+part of our question you don't see all the notes I mean there's eight pages of photographs notes
+think like that so action that says we'll put in their hits issued our next action is with the
+permits issued should have a question mark I guess she she have access to that or not until the
+all of our notes yeah she can recall anybody can do a um of a record question not going to get
+all of the records because there's records and course of bars with our conspiracy
+counsel all that kind of stuff on maybe the actual paperwork to the permit yeah um but they
+should have that since because it's an application for the permit so you're seeing as for the notes on the
+file yeah it's public records of course you just request exactly what you want note
+what would you recommend the specific footage be to get the records that I need um I'm
+sure because I believe you have them you're you have the correction notice from it's not it's not
+even with our department it's with my checkers so you have that part um what the records you're
+asking is what is our inspection notes say I guess you could say but including but I
+recommend it's not done so they're they're still reviewing it so you've submitted the permit but
+you'll hear back as soon as they so we have heard back one question I have when I read that
+code section of the uh hello to a dangerous housing my house does not need any of that
+dangerous housing criteria yeah building cuts pretty specific where it talks about
+nuisance and dangerous housing as anything that's one of them is anything that's in violation of
+title later title or chapter 8 or chapter 15 declares of that and anything that's found in
+those sections that were not permitted legally um it's one of the many many items and that's why
+it declares it so again my position is a I have a permit we're gonna get on the garage in the
+bathroom I have a permit me when I went to the counter to inquire about a permit for the garden
+shed I was told by the city representative um that I didn't need a permit because I was
+replacing like for like I understand that I have relied to my detriment on that comments
+well ultimately we have but my I guess my point is like and mr canary built my garden shed so
+I you know the the process of trying to get these permits where they keep putting these artificial
+barriers I've done everything I can to use license contractors to participate to get so
+you know the difficulties I'm experiencing getting permits for work that has been done
+correctly you know I'm like I said I'm trying to play ball I'm trying to get this done I
+participated in the cash for grass the city saw all the landscape the lighting the gazebo looks
+beautiful in this other land I would just say that you I've relied to my detriment
+you expressed that the contractors told you things and you would have a civil case against
+some contractors if they built sheds with electricity and everything else out permits and they
+told you that you didn't need permits and you paid the contractors and did contracts and you
+would have a civil issue gets that contractor um on the city's part there's no permits there's
+never been permits we need permits and and again trying to get the permits to clean it all up
+miss Sutherland you said earlier that you applied for those permits did you say back in July I
+I did read your documents I just can't remember the dates um I made the first attempt back in
+August a second attempt I believe in September uh a second attempt again in September and finally
+my art and then another attempt in November after trying to get and then finally I think it went
+through on or about December 4th and when I say went through to the point where the people at the
+building department will finally just start looking at them right so the application was received
+except yes finally yes so building inspector proc um you started the case in March right
+uh the plane was created in March and I heard your question before and just to address the concern um
+you you were asking how come you know the cloud was placed in May and title pulled in May and
+noticed nother you should only in December um this may because I was just a little bit more
+lenient than I should have uh based on my observation from day one that I was there which was May 9th
+I had observed four things there the shed because of ebo spa and this is you know things they
+can see from public right away and technically I could have issued the notice nother right on that day
+so the determination was made the complaint was valid work without permit was done
+however even my very first uh know that I have here I stay proceeding with cloud title notice
+nother will follow once the violations will enter it so obviously we cannot just send the notice
+nother out without the you know some paperwork to be done in the system so and miss uh
+settlement she responded to my card that I left on the door right away and due to the fact that we
+have a number of cases I knew that she was on it and I did not need to push that envelope so to say
+proceeding with the notice nother so time came we met uh and this is you know happened in July
+and she also exuded you know good faith at that time that she was on it she agreed that
+the permits were required and she was gonna work on it but fast forward you know December again
+you know this is something that should have been issued at least at 30 days due to the fact that
+the no the violations were found valid here we are just again just to confirm the fact and uh
+online the fact that we're here the notice nother the validity of the notice nother is being
+appealed today nothing else so were you aware that she was making those attempts at getting her permits
+not before in august september november uh at that time yes but uh september I was told that
+she was gonna go to for a month away out of the country on vacation august you know take it easy
+which I did so I was working with me southerland right and I think that's common practice for for
+the building inspectors if if the owner is making a good faith effort to comply to apply for permits
+to get the plans in and they're having difficulty and they're keeping in contact with you you usually
+do monitor it right and so um she says that it was accepted on December 4th and yet you issued
+your notice on December 7th was that just coincidental or no um so again the complaint was through
+the 301 system uh in march I responded to it in May we met in july now fast forward December
+now so the finally and there was a lot of back and forth uh something that designed professional
+really should have just submitted it in the first go and that should have been accepted but because
+there was so many details missing and um almost appeared like um it wasn't really thoughtful
+a submittal because it just happened one two three four times and uh so finally again it was
+accepted and when the um plan check uh the invoice for plan check was uh invoiced and sent to uh
+miss southerland you know the email I get it says well you know I'm not going to be paying no fees
+right now I'll get to it in uh sometime in January because you know she was you know either going
+away someplace or some other things were more of a priority to her then get the whole rowing
+and continue and the permit couldn't be issued but not even without the review without the fees initial
+fees paid so all right yes ma'am my effort to keep him appraised of what was happening it was
+December I had taxes I had a medical procedure that I needed I had my trees to trim because I'm
+that responsible property owner I had a significant financial outweigh and I wanted him to let him know
+I'll be paying these invoices in January and three days later you should see the picture on my ring
+as he's taping the notice in order to my door and um I've made a request to have a reassignment
+of inspector I don't have confidence I feel very uncomfortable going forward working with
+mr.
+
+prop and I'm asking this board to make a reassignment whether you can or not I want to put it
+on the record yeah that's not in our authority sorry um mr.
+
+Cosley I just wanted to make the
+comment that initially the question had been asked and answered concerning um the cloud and the
+main thing to understand about that is just to protect anyone that might be out there looking for
+property so we're required to do that the fact that he said he waited a long time that's the
+leniency as well as he stated so the nose and order can be issued right away it's all a courtesy
+so there's been some effort between what he said may and December where we're saying we're giving
+you a chance so if it's taken longer because you've got difficulties we get that but at some
+point we have to issue the nose and order all right I'm gonna mr.
+
+prop inspector proc so
+I'm sorry miss
+this other one has submitted permits right yes let me get applications for permit
+so would number two in your recommendation still be valid right it's still valid right okay
+and can you say what number two is sorry or to obtain a permit which I'm trying to okay all right
+so board I'm inclined to stick with staff recommendations for this case um I'm gonna go ahead and
+make my recommendation any other questions for either before I do okay
+so
+the other one so mr.
+
+inspector liker is a logic wrong so we've spoke
+we've spoke okay perfect and I've made the request and I was told it would not occur
+well and I have evidence that me assignments can be done as an appellant who is before you on
+September 23rd Christy fluke had a similar unfortunate multiple exchanges
+all right I make a motion finding the property owners violated provisions of chapter 8.96
+and or 8.100 of the Sacramento City Code ordering the property owner obtain a permit to correct
+the dangerous conditions or demolish the structure within 30 days of the date of the decision
+and ordering that if the property owner fails refuses or neglects to correct the dangerous
+conditions or to demolish the structure within the time set forth in this decision that the
+City of Sacramento may repair demolish or secure the structure or institute an action to
+compel compliance with the order for property known as 4615 Henry Way Sacramento California 95819
+APN number zero zero eight zero four two one dash zero one zero dash zero zero zero zero zero
+second and tapion yes chamberland yes abayan
+yes so we found that the the city is correct that there are violations and that you are
+working on providing so nothing really and that has changed there are violations inspector
+park is correct you notice you are getting a permit there is like I said you'll get a letter in
+the mail detailing this okay and I am leaving on Monday and we'll be back April 1st
+okay because I'll be gone for more than 30 days mr.
+
+how much time do you get to appeal so
+once the fees are invoiced you'll receive another hearing packet that will be in a green and white
+envelope that'll be in a couple months though you're good okay because mr.
+
+Taylor my architect is
+prepared hopefully to let uh an inspector into my home to validate the permits should the
+permits be issued because I do not want to delay so I want to just let you know that I'm making
+arrangements for that to be done while I'm gone sounds good and I added your PO box to the case
+thank you all right all right I'm that sure enough thank you very much have a great evening
+all right we will move on to item number four good timing
+inspector Eli inspector Eli is not available tonight so you're stuck with me
+supervising building inspector Doug Pearson
+the board rejects I'm just kidding hold on
+and then we have is it Darryl McCoy okay all right you're ready as well all right let's be sworn in
+can I get all parties for item number four to please raise your right hand and answer the following
+question do you solemnly swear on our penalty of perjury that the testimony and evidence you give
+it is hearing shall be the truth the whole truth and nothing but the truth I do thank you
+all right supervising building inspector Pearson okay this is agenda item number four
+case number two three dash zero two three three four one property owner Darryl McCoy property
+address 34 16 41st Street parcel number zero one four zero two one three zero one zero zero zero zero zero
+case manager William Eli supervising building inspector Doug Pearson presenting
+the case was open this accounting of expenses case was open on June 26 2023 the current status of
+the case is closed on June 26 2023 building inspector will Eli met with the complaining party on
+the site to go over the violations he found the extension cords running through the walls of the
+house he also found water here and heating and air conditioning unit both installed without a
+permit there was also not enough clearance in front of the toilet because the washer and dryer
+was installed in the bathroom on June 27 2023 a preliminary letter was sent out
+on August 2nd 2023 you building inspector Eli went to the home for a 30 day inspection of the
+property and had have had no contact with the owner or the tenant renting the house no corrections
+had been made at this time he requested a notice in order to be sent on August 17 2023 he then
+requested a title report in a cloud on October 19 2023 a permit was issued on November 7 2023
+he met with the owner explaining the penny penalties and found out that the address was not
+correct and not updated he then updated the address on November 9th he met with the owner for
+the final final inspections all violations were repaired the case was closed so we have two
+invoices invoice number cdd ch ch sorry let me start a kit cdc chc
+17761 for the notice in order and invoice cdc chc 18088 for the termination title
+along with a other admin fee total cost was $1420 the cloud was properly recorded
+on August 7 2023 however no return came from the county as of yet from or the actual document
+the property owner was not contacted prior to issuing the notice in order except in an attempt
+through the preliminary letter which was sent on June 27th which appeared to have the wrong
+address as was found in parcel viewer at the time the notice in order was sent to the property
+address listed on the current title report at 4424 rocky point drive any out california 95509
+however it was not effectively served that we could determine and the notice in order was not
+appealed repellent has received the information being presented this evening the staff recommends
+that the board adopt the decision confirming the total charge of $1420 for the notice in order
+and the termination and title on the property known at 3416 41st street parcel number 014 0213 010 000 000
+you mr.
+
+McCoy I'm kind of looking over and heard exactly what he just said
+and of course I don't agree well this is his timeline and I can understand that but I never received any
+of this stuff I mean never received I haven't moved I've owned this property since 1989 real clean
+property when you come to it and the reason or the way that I actually found out about all of this
+is that my mortgage company sent me a letter and contacted me in October and said hey we receive
+something that your rear structure you're not taking care of it and they want to demolish it
+and I say no that's that can't be so and of course I call the city of Sacramento and I say what's
+going on and they refer to me to WIM Eli WIM Eli case manager so I call up WIM Eli immediately I say
+hey what's going on my property WIM say hey look so I could have been avoided if your tenant
+contacted I said okay you're talking to me now what's wrong and mr.
+
+Eli said well there's
+certain things at your house that aren't right when can you meet with me I turn them I can meet
+with him anytime very next day so I called him up and I we agreed to meet at Friday at 11 o'clock
+at my house which we did so we go ahead and we beat up at my house and he's running and
+on the phone while we're talking on the phone I'm telling him never received anything so he's
+telling me that well you had to receive it because I'm looking at you and your wife's address
+on the rental housing program and the address is 4424 rocky point drive on the rental housing
+program so I asked Eli I said what is a rental housing program I know nothing about it so
+you know he says well that's a program that's been around and you had to know about it because
+you filled out the paperwork and we have paperwork on you that you live at 4424 rocky point drive
+I said forget it let's meet the very next day we meet at 11 o'clock so we're there and he's
+pointing out that a tenant complained that the water wasn't getting hot enough so he said that he
+came out there and he looked at it and he explained to the lady that it's an older house and the water
+takes time to get warm and he saw that it got warm then he's telling me that the water heater didn't
+have a permit on it I said okay I know good and dull and well that I had the water heater replaced
+and the HVAC replaced in 2001 by Sunni Hill and that's after it was a fire at the house or whatever
+and smoke got into the thing and they said it's best so it's in it so it stripped everything out
+and I could finally put a HVAC unit in there because it had wall heaters so I do that everything
+is pretty much new so when I meet him out there I tell him hey these permits were you know
+got for the house he says no this unit is a 2018 I say yeah but Sunni Hill updated that
+I paid him 5100 for the unit in 1700 and something for the water heater I even let him know that
+so he says well he didn't get the correct permits and it's your job to get the correct permits
+I said okay and then he walks me through the house and he's trying to explain
+some corrections that I need in the house you know I read him saying there's wires around
+whether wires laying all over the place the lady in there had put up a
+a camera a camera that you would buy at the store if you wanted to monitor your kid so she had
+home with the wire she wanted to be higher so she could look out into the kitchen and the living
+room because who she's written the rooms to there she's trying to help you know disable veterans so
+that's one of the reasons that I actually rent the property tour so me and him walk through the
+house and as we walk through the house he's telling me hey you can't have extension cords
+more than four months and I guess he said it was it was items that was in the way by the tenants
+that were in the house that would prevent you from walking out of out of her inside an exit
+or entry door even though when me and him went there none of those items were found so
+after that I told him I said okay you're telling me about this I immediately went down to the city
+I got the permits for it Adam you know got the permits on the 19th I had all the work done
+uh with her permits and when I called him back up to actually come sign them off he was in school
+so he said he had to you know wait to get to it so later on he comes back and he ends up signing
+off at the beginning of November so when I sit here and I actually look at his timeline saying he
+I met with the owner to explain the penalties and found out the address not updated
+my address has always been updated I know they said that they get my address from the Sacramento
+County Tax Collector parcel correct okay so I go down there I go down to the Sacramento County
+Tax they tell me that they don't enter it they get it from the Tax Assessor's Office so I go down
+to the Tax Assessor's Office to say hey you know they're telling me that they tried to send me
+a letter and it didn't get to me what address do you have so the Sacramento County Tax Collector
+looks into its system and they say oh we got down 4424 Rocky Point Drive I said okay how do you
+get that address never been to the Tax Collector's Office so I told him to go ahead and pull
+what they actually had so they went over all their notes and records and they're telling me
+that they don't have 4424 Rocky Point Drive in their system and they couldn't tell me how
+it actually physically got there here I am with the document that they would give me which is 1175
+seasons drive which is one of our yeah from 2001 so even the 4424 Rocky Point Drive I never
+received anything if they sent it there but that's where they tell me that I actually live and
+that's where they're telling me that by the City Council has approved this is what they go by to
+send out mail so as I was sitting there talking to Eli I said well why don't you show me
+where you've gotten that from so he brings up his computer and say see 4424 so that's the
+reason that I actually went down here you know and where do they get that address from because
+it's nowhere to be found so I'm not hard to find I'm very easy to find I mean I get calls every
+single day on that property that somebody wants to buy it or something else and and I tell you
+right now utility bill 1975 St.
+
+Martin Place you know I pay that thing every single month I pay
+my taxes every single year I don't have a problem so even when I'm talking to the people at the
+tax assessor's office they're telling me well if you guys did it electronically we're not going
+to have a paper trail so they're just going to get what's ever written down so that's where I'm
+thinking that I tried to explain to the city I said I said look as soon as as soon as all this as
+they send me what's that called the notice the notice in order yeah the notice in order you know
+they're telling me and I'm looking at this that they delivered it they handed it to the owner and
+you know he signed for it I've never seen that thing I've never seen it and as soon as I did see
+everything was taken care within two weeks what I told the people that was in the house is that
+you got to take any wire off so automatically they have to take it off it's an older house so the
+washer and dryer it's not mine is there I said forget it you got to remove the washer and dryer
+no biggie all I have to be is told what to do and I'll do it I don't disrespect anything
+but the biggest thing about this and looking at it and the way this comes up is like I ignored the order
+which we never received and that's the reason that I'm paying bills that they want bills paid to
+the city and it only will take a little work to actually get my address or get my phone number
+because everybody around that house has it yes it was sent to rocking point and that is not your
+address no I live at 1975 St.
+
+Martin Place for the last 18 years was the notice in order posted
+on the property as well okay so so the address we had from from the system in citizen serve which
+gets its addresses from the county that was the address that we were given at 4424 rocky point
+that's where the preliminary letter was sent okay the preliminary letter is a courtesy and not
+part of due process right so we try and make contact that way unfortunately contact was not made
+and we don't a return receipt or anything on that it's only first class okay so after not hearing
+anything and but the tenant we had talked will had out there so unfortunately the tenant
+after not hearing after 30 days we do send out the notice in order we aren't required to have
+preliminary letters of courtesy so we send out the notice in order and that's where really the
+investigation starts with correct addresses because that's what we put the cloud on
+and even though in this case a penalty was sent out as well as a monitoring fee I when I found
+out that we did not have good service on the notice in order I we we rescinded that we pulled it
+back we did a fee correction so he I did that for him when he came to the office when he explained
+his situation realized he did not get proper service and so we we took that back however that does
+not take the notice in order that we sent out originally because without getting proper service
+if he hadn't acted so quickly which he did we would we would be investigating and trying to find
+the correct address before we move forward with the case but he acted quickly again like he said
+when he found out he acted quickly got a permit and legalized so you removed the monitoring fee
+you didn't you removed him I removed had will do a fee reduction I signed it and I think Peter
+signed it to remove the monitoring fee and an admin penalty because we hadn't heard even after
+the notice in order was sent out we hadn't heard anything for 30 days but through further research
+we found out that was the wrong address because we did get a green card signed from this address
+you know but it's really hard to tell and like I said because it was not the correct address
+so somebody received it and signed for it but it wasn't wasn't the correct person
+and did the Tata report have the rocking point address as well
+right you see was go ahead I don't think it did that's why we we I I look back I haven't
+no question yes the notice was
+notice notice is on the property as well oh yeah I didn't hear that yes it got the notice
+in order got posted onto the property we did that much but that's not effective service
+and and Mr.
+
+McCoy the tenant didn't share that with you
+yes yes she did she shared it when I found out at the very end when I finally received something
+not at the time now this is this is the caveat to that is that they put it on the door
+they don't tell the tenants anything the lady tenant who made the complaint she was upset
+at them putting it on the door and nothing was going to be done she takes it off the door
+and keeps it and that was even told to William Eli who came out there it was explained to him
+because I had a conversation with him and a conversation with the lady who runs
+that house and deals with the case managers with each and every tenant in that house
+because they all have case managers so if something is wrong it's easy for them to talk to the
+case manager and they can get anything they want but when I talk to them they you know they
+they they say that they just left it on the door and we couldn't get in contact with you you know
+so Mr.
+
+McCoy the noticing requirements are legal requirements that they have to meet they have to
+provide notice to the address of record which they use partial viewer which apparently had
+this rocking point address and then I'm sorry the title report I'm looking that up did it have
+their actual correct address it does have it does have rocky point drive on it and it yep it's
+there that's the that's the actual listing of the of the title rocky point drive so the original
+grant deed must have that listed as the return address yeah I we don't see that on the grant
+deed this is it right here they couldn't give me 4424 rocky point drive because they don't have it
+he can't get 4424 rocky point drive from any tax assessor or sacrifice many county tax whatever
+because they don't have it on record and I know because I spent two days down there and trying to
+get that what address including this afternoon this is what they gave me what address is listed
+on that grant deed it's 1175 seasons drive in Pittsburgh California and is that your address
+dated 2001 and is that the correct address for you no okay so if they had had that document they
+still wouldn't have been able to provide you notice correctly correct those documents are all
+that we all that they can rely on yes I understand I just I wanted to follow that I do understand
+I think the main point of contention here is that we're being penalized for not responding to a notice
+and we're saying we couldn't respond to a notice that we had not received the moment Darra had a
+verbal conversation with mr.
+
+Eli and was informed of what was going on at that property and even
+that phone call was a result of Darra reaching out because we had received notification from our
+mortgage company the hey something's going on at this property here and if you don't address it
+there's going to be an issue so we're like whoa what's going on so that's when we started doing some
+investigation of our own found out what was going on with this property Darrell finds out it's
+Mr.
+
+Eli he needs to speak to you had a conversation with him and that's when the ball started rolling
+what do you have to do you have to do ABC and D Darrell enough there addressed it it was done within
+I think two to three weeks the work was done and it was approved then we get another notification
+where we're being charged a sum of 1420 and we're saying why and it apparently stems back from
+this original notice and we're saying why are we being penalized when we didn't know
+it didn't know and we can prove that we did not have any communication nothing was sent to our
+current address which we've been living in Brentwood California for some of the utilities and the
+most well every month through our current address Brentwood so I'm still kind of unsure how this
+mishap has happened but at that now we're being penalized $1,400 because of it seems grossly unfair
+you updated it since have you updated your address since yes and not only that though and I know
+you're talking about that well it would have went to the wrong address from the beginning
+we assumed when we looked at our documents when we looked at our re-fight documents because
+it states on there that they're sending it to the Sacramento County Tax Accessors Office so
+I mean clerk or quarters office so it could be recorded with that particular address so we're doing
+everything that we need to do legally you know I've always done everything that I need to do to the
+house as far as you know going on with houses something's wrong with it you know I don't try to
+get over and that's what I even explain you know don't get me wrong real nice person treated me
+well talk to me spoke to me well but you know it comes down to the same thing what I asked him was
+at well mr.
+
+Eli I said if they have the wrong address what do you do what does the city council
+do when they have the wrong address and I know the first thing that he says is well it's your it's
+your responsibility to make sure that the address is correct which I figured that address was
+correct when I look at my title papers I'm figuring that all that stuff is correct so then
+even for me to even go correct it I have to go down to your county Sacramento County Tax
+and here I am and they can't even find even 4424 so we go back to if you can't find 4424
+where does it stop where where's okay okay when you can't even tell me how you got it okay thank you
+do we oh were you going to say something George I do need to make an amendment I was informed that
+the invoice numbers I read that are on the former incorrect it it's I guess the
+invoice is CDD hold on so they're incorrect in the staff report so everything
+but the amounts oh that's fine just the wrong answer okay the wrong invoice number it should be
+CDD CHC 18167 okay covers the notice in order termination and title that's okay I have one
+question Mr.
+
+Chairman yeah to Mr.
+
+McQuite so the the county recorded that you got on February
+February 22nd of 2001 the 2000 seasons or what was it we have 1175 season seasons so they
+have that recorded at that point did you eventually get them to change your address to the correct one
+I did okay that's what my dad's because it looks like it's reflecting now thank you
+do we have any other questions from the board yes most have been answered so the bottom line is
+it's it's a game of wrong information I won't say bad information wrong information so from that
+the penalties that have been acquired is from bad information not due on the part of the owner
+but due on the part of whoever acts assessor whoever office whoever inputed the incorrect information
+foreign address that doesn't exist period so to penalize someone that didn't receive any kind
+of notification you're simply of not being able to be notified legally to the their legal address
+whether it's their home address period not period but their home address so for someone
+what that said as the appellant has stated clearly he addressed they addressed everything
+in a very quick manner of time so there wouldn't have been an issue from jump
+to that the penalties as you stated Doug
+that's fee he's supervisor Pearson sorry for calling you out by your first name
+come at the cost simply because of the bad address not well actually let me pause that just
+for a second I'm like this is we're done but let me just pause it for a quick second as well
+as stated oh he lies not here like to ask the question was there any exposed hot
+wires that he saw that that were written here as he had stated versus what the appellant was saying
+is simply a video cable plugged into a camera to source but he lies not here to ask that question
+so and to that actually one more question if he would answer for me what is the
+code or if there is one in regards to having an extension cord around the house
+there there the code the cords which are shown in the picture which is attached to the packet
+are in violation because they're being used in lieu of permanent wiring and then when you
+start securing it as it is with staples and other method you create pinch points and hot spots
+which create fires oh I'm with you on that my apologies I didn't see the picture even looking at
+I thought that was just a bad electricians job to a box those are white extension cords I'm with
+you now so I wouldn't have asked that question through that we're good there but again that goes
+back to the tenant so from best the extension cords I understand unfortunately yes I have a question
+do you still own rocky point drive along with since you own that property
+so to address your other question regarding the fees or notice an order
+happens all the time that initially the correct the address is incorrect which as board members
+you have seen or the process in parcel viewer when we send the notice or when we send the preliminary
+letter the preliminary letter is a freebie that that we do it we don't charge any money we don't
+put a cloud on the title however to process the notice an order which is a second which is the
+next step we go to it costs the city of money because we have to we have to put a termination
+we collect the termination fee which we collect upfront because that's what we have to pay the
+county on the back end one of the things we do when we have to make sure that we can get in contact
+with the owner is request the title report so at the point we request the title report is when
+with the notice an order is actually the way he got notified was a bank because when we
+send a copy to the bank and we send a copy that's in the listed in the title report if it's
+different then where we already sent it which that got sent out so we do everything we can't and
+we sent it first class letter we sent it certified mail and we post on the property we do everything
+we can in order to make contact because a lot of times we don't hear from owners even if it's
+the correct mailing address so we have to go to the next step and in order for us to go to the
+next step that's what the city through an auditing process had well the the title and termination
+our fees we pay through the notice an order is all the costs associated to complete that case to
+that step at that point between all the admin fees penalties and what they've deemed as a cost
+to get us to that point I appreciate that and again just just encapsulating it this way
+and and I don't know what part of that is the county as you said the back in for the title search
+a title report same thing the
+that it was there in the counties in for office for not inputting the correct address to begin with
+so just I'm going to walk it out just a little bit so had the county's office
+assessor's office input of the correct address the parent would have been notified
+with the notice of order had the county assessor's office input of the correct address from the
+first letter the appellant would have been notified had to with that as was shown by the
+appellant's actions once actually notice work was completed I understand there's a cost that
+goes into the process that cost would have never happened had the appellant actually been
+notified at the correct address to that I understand the work that has been done and the fees
+associated but they would have never happened we're going by testimony and what has been shown
+the county's bad not inputting the right information none of these fees would have actually happened
+in outside of the masses last question what the violations that were recorded what would be
+the fees for those violations okay the violation they were marked off but they were corrected so
+if they were corrected there there isn't going to be a fee then correct if under your scenario
+that when we we had the correct address provided he had provided the county with correct address
+and they had the correct address and he had which he did get onto it in a very extreme manner
+timeline I mean he did it accelerated versus most of our customers we wouldn't have issued a
+notice in order it sounds like it all I can do is say it's a possibility in his case yes
+if he had been properly notified he when he was properly notified he addressed all the issues
+within a timeline that would have kept him from receiving the notice in order fantastic I'm
+going to say this last thing that I'm going to make a motion now that Mr.
+
+McCoy that your actual
+address has been recorded as you stated earlier right on file of the city our county of Sacramento
+your correct mailing address as far as the ownership for that property but you're at correct
+address had already been on file in regards to the utilities that you receive I'm with you just
+making sure inspector excuse me supervisor Pearson the rental what is that the rental
+problem housing inspection program thank you you know I never remember do they now have the
+correct mailing address for the McCoy's yes who's yes thank you both they have St. Martin's
+place 1975 St.
+
+Martin's place okay fantastic so we're all there I know I heard it before I was
+just making sure that it went that way and with that I'd like to make oh Mr.
+
+but hold on one second
+we have one more comment just wanted to make one more comment because ultimately we understand
+what we're talking about here however when we say it's ultimately your responsibility it was a
+good thing that this happened because now you're corrected in the right way but at one time you did
+live at 4424 and however that got into the systems and they started talking to each other it
+populated in the wrong areas obviously but it did populate from an actual real address of yours
+albeit 18-10 years ago so in other words we did do do understand yeah yeah yeah no I understand
+this Mr.
+
+Boyd okay then I'm slightly confusing because I
+through all of this that I heard that 4424 rocky point is the address you just stated I think he's
+saying they did their due diligence though for what was in there the address was a previous address
+were you live no that's not where they lived it's right that's the incorrect address they didn't
+correct address in the past in the past where you in the past where you lived rocky point address was
+oh that I didn't get financing it the new documents didn't get inputted correctly so the
+original grant deed mailing address was 4424 rocky point so
+what research within the Sacramento and we learned
+yes
+in older address
+75 season
+yes
+Okay, Mr. McQuite.
+
+Sorry for interrupting you. Let me make a motion here. We get to the right page, sorry. What I'd like to make a motion. Waving all of the fees of $1420 for the updated invoice, CDD, CHC, 1, 8, 1, 6, 1. By the correct. Do we have a second? I'll second. I just want to. Mr. McQuite. You were still responsible for the fact that you did you put in a water heater without permits. I know you hired a contractor and he was supposed to do it, but he didn't do it. And it's the same with the air conditioner. So you've dealt with that fact. I'm just saying that's one of the things you always got to remember when you are outside the guy
+that you need to make sure that they know they have to get permits.
+
+Okay. Yes. Now, now I don't let contractors do anything. I'm getting the permits and they're coming to me. So I know I have a permit. Now I know that. Sounds. Yeah, hold on one second. Go ahead. It's happening. Yes. Chamberlain. Yes. Boyd. Yes. O'Brien. Yes. All right. The board has found in favor of you and the fees have been waived. You will receive a letter in the mail detailing. Thank you. All right. Let's move on to item number five, housing and dangerous building costs recovery and contested. The following item shall be heard as blanket items.
+
+City staff recommends that the board adopted decision confirming a total charge noted by each agenda line for expenses incurred by the city in the enforcement of provisions of the housing code and or dangerous building code with respect to the property known by the physical address and or parcel number as noted within each agenda line for items numbers. Line one through 51, 54 through 78, 81 through 171. So moved. I'll second. And Taplain. Yes. Chamberlain. Yes. Boyd. Yes. O'Brien. Yes. All right. Moving on. Board comments, ideas and questions. One. Can you turn the heat down just kidding. No. It's cold in here. We usually mess with them when we first get this.
+```
+
+_Notes: Detailed discussion and testimony regarding the second Notice & Order Appeal._
+
+## Item 4 — Housing & Dangerous Buildings Case Cost Recovery - Contested
+**Alignment confidence:** 1.00
+
+### Transcript (verbatim chunks)
+```
+Just joking with the last meeting. I will say I do have a comment. Is it just. Yeah. Sorry. I decided to waste. Thank you. I was unsure if I can really ask that question either. I'm full of things. I'm not sure I can ask today. So I believe it was. I wanted to wait until the very end for the least amount of people. But maybe we have a second set of eyes. Look at Mr. Holmes or Inspector Holmes is. Pack it. Staff report. Yeah. I get you. I'm sorry. That's you. That's right. Okay. Just a suggestion. I'm not sure if you all read it or did you. Okay. Yeah. I'm not going to say it's out loud. But as long as you understand what I'm saying. Thank you. And then Mr. Prox. Oh, sorry. Thank you.
+
+If we can get the he's done it before he's he's here every week or every month. But the the timelines I really got lost without timelines on the one he did today. He always puts timelines in there like the dates. He just didn't do it on this last one. I might speak to that. Oh. He's convoluted situation based on this so that it would only be talking about the notes in order. Okay. I tried to abbreviate things but in doing so he didn't do the chronology issue used to see. And that's that's what he did a chronology in the report. It just didn't it just was all and I couldn't see like usually like I'm fine with abbreviated. Trust me. I'm fine with the abbreviated. But I see on a lot of them.
+
+There's at least date so I can see how far like I reached out. I did this so I can see. Hey, they've reached out three times in the last six months. Right. That helps you. And I get that so if that's the case for that, that's fine. So that was my last comment for that. So public comments. Do we have any no public comments? All right. Any other before we adjourn? Thank you. We're adjourned. So off to record comments. I've got to split the costs on that. I mean, you know, we've been in a little favor. Yeah.
+```
+
+_Notes: Discussion regarding the costs incurred by the city related to housing and dangerous buildings._
+
+## Item 5 — Housing & Dangerous Buildings Case Cost Recovery - Uncontested
+**Alignment confidence:** 1.00
+
+### Transcript (verbatim chunks)
+```
+(no transcript assigned)
+```
+
+_Notes: Finalization of uncontested cost recovery items._
