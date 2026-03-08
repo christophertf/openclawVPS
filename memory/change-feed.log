@@ -29,3 +29,4 @@
 2026-03-08T08:35:00Z [Antigravity (model-37)] Refactored TerminalWindow from click tabs to a side-by-side continuous multi-pane view, increased window height so all system logs can be monitored passively simultaneously.
 2026-03-08T10:23:02Z [CLAW] Added user preference to USER.md: proactively escalate when blocked and unable to self-fix.
 2026-03-08T10:25:00Z [Antigravity (model-37)] Mass commit of 1130 workspace changes, including dashboard redesign, cpra engine, and feed refactors.
+2026-03-08T10:39:00Z [Antigravity (model-37)] Removed accidentally tracked .venv and added to .gitignore.
