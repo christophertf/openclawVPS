@@ -8,13 +8,13 @@ import { PageHeader } from "@/app/components/ui";
 export const dynamic = "force-dynamic";
 
 export default async function ToolsPage() {
-    const [toolsRaw, stockRaw, stockCapRaw] = await Promise.all([
-        safeRead(path.join(WORKSPACE_ROOT, "TOOLS.md")),
-        safeRead(path.join(WORKSPACE_ROOT, "STOCK-STUFF.md")),
-        safeRead(
-            path.join(WORKSPACE_ROOT, "STOCK-CAPABILITY-MAP.md")
-        ),
+    const [toolsRaw, stockRaw] = await Promise.all([
+        safeRead(path.join(WORKSPACE_ROOT, "docs/TOOLS.md")),
+        safeRead(path.join(WORKSPACE_ROOT, "docs/STOCK-STUFF.md")),
     ]);
+    const stockCapRaw = await safeRead(
+        path.join(WORKSPACE_ROOT, "docs/STOCK-CAPABILITY-MAP.md")
+    );
 
     // Parse stock skills from STOCK-STUFF.md
     const skills: { name: string; status: string }[] = [];
@@ -84,10 +84,10 @@ export default async function ToolsPage() {
                                 </span>
                                 <span
                                     className={`text-[10px] px-2 py-0.5 rounded-full font-semibold ${isConfirmed || isPass
-                                            ? "bg-emerald-500/15 text-emerald-400 border border-emerald-500/20"
-                                            : isReady
-                                                ? "bg-cyan-500/15 text-cyan-400 border border-cyan-500/20"
-                                                : "bg-amber-500/15 text-amber-400 border border-amber-500/20"
+                                        ? "bg-emerald-500/15 text-emerald-400 border border-emerald-500/20"
+                                        : isReady
+                                            ? "bg-cyan-500/15 text-cyan-400 border border-cyan-500/20"
+                                            : "bg-amber-500/15 text-amber-400 border border-amber-500/20"
                                         }`}
                                 >
                                     {s.status}

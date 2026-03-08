@@ -10,12 +10,12 @@ export const dynamic = "force-dynamic";
 export default async function AgentsPage() {
     const [agentsRaw, soulRaw, identityRaw, userRaw, capRaw] =
         await Promise.all([
-            safeRead(path.join(WORKSPACE_ROOT, "AGENTS.md")),
-            safeRead(path.join(WORKSPACE_ROOT, "SOUL.md")),
-            safeRead(path.join(WORKSPACE_ROOT, "IDENTITY.md")),
-            safeRead(path.join(WORKSPACE_ROOT, "USER.md")),
+            safeRead(path.join(WORKSPACE_ROOT, "docs/AGENTS.md")),
+            safeRead(path.join(WORKSPACE_ROOT, "docs/SOUL.md")),
+            safeRead(path.join(WORKSPACE_ROOT, "docs/IDENTITY.md")),
+            safeRead(path.join(WORKSPACE_ROOT, "docs/USER.md")),
             safeRead(
-                path.join(WORKSPACE_ROOT, "STOCK-CAPABILITY-MAP.md")
+                path.join(WORKSPACE_ROOT, "docs/STOCK-CAPABILITY-MAP.md")
             ),
         ]);
 

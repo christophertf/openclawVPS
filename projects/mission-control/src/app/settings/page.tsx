@@ -6,8 +6,8 @@ export const dynamic = "force-dynamic";
 
 export default async function SettingsPage() {
     const [heartbeat, caseAuto] = await Promise.all([
-        safeRead(path.join(WORKSPACE_ROOT, "HEARTBEAT.md")),
-        safeRead(path.join(WORKSPACE_ROOT, "CASE_AUTOMATION.md")),
+        safeRead(path.join(WORKSPACE_ROOT, "docs/HEARTBEAT.md")),
+        safeRead(path.join(WORKSPACE_ROOT, "docs/CASE_AUTOMATION.md")),
     ]);
 
     // System info
