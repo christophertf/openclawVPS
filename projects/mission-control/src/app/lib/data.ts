@@ -341,17 +341,17 @@ export type HealthCheck = {
 export async function getSystemHealth(): Promise<HealthCheck[]> {
     const checks: HealthCheck[] = [];
 
-    // MEMORY.md
-    const memory = await safeRead(path.join(WORKSPACE_ROOT, "MEMORY.md"));
+    // docs/MEMORY.md
+    const memory = await safeRead(path.join(WORKSPACE_ROOT, "docs/MEMORY.md"));
     checks.push({
         label: "MEMORY.md",
         status: memory ? "ok" : "error",
         detail: memory ? `${memory.length} bytes` : "Not found",
     });
 
-    // HEARTBEAT.md
+    // docs/HEARTBEAT.md
     const heartbeat = await safeRead(
-        path.join(WORKSPACE_ROOT, "HEARTBEAT.md")
+        path.join(WORKSPACE_ROOT, "docs/HEARTBEAT.md")
     );
     checks.push({
         label: "Heartbeat",
@@ -389,7 +389,7 @@ export async function getSystemHealth(): Promise<HealthCheck[]> {
 
     // Pipeline
     const pipeline = await safeRead(
-        path.join(WORKSPACE_ROOT, "reports/case_pipeline/status.json")
+        path.join(WORKSPACE_ROOT, "data/processed/reports/case_pipeline/status.json")
     );
     checks.push({
         label: "Pipeline",
@@ -448,7 +448,7 @@ export type ProjectRegistry = {
 };
 
 export async function getProjectRegistry(): Promise<ProjectRegistry> {
-    const raw = await safeRead(path.join(WORKSPACE_ROOT, "projects.json"));
+    const raw = await safeRead(path.join(WORKSPACE_ROOT, "metadata/projects.json"));
     if (!raw) return { projects: [], meta_channels: [] };
     try {
         return JSON.parse(raw) as ProjectRegistry;
