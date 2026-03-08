@@ -24,9 +24,8 @@ async function getCronData() {
     const jobs = parseCrontab(crontabRaw);
 
     // Read state files
-    const stateDir = path.join(WORKSPACE_ROOT, "state");
-    const stateFiles: { name: string; size: number; content: string }[] =
-        [];
+    const stateDir = path.join(WORKSPACE_ROOT, "metadata/state");
+    const stateFiles: { name: string; size: number; content: string }[] = [];
     try {
         const entries = await fs.readdir(stateDir);
         for (const f of entries) {
@@ -45,8 +44,7 @@ async function getCronData() {
 
     // Read scripts
     const scriptsDir = path.join(WORKSPACE_ROOT, "scripts");
-    const scripts: { name: string; size: number; preview: string }[] =
-        [];
+    const scripts: { name: string; size: number; preview: string }[] = [];
     try {
         const entries = await fs.readdir(scriptsDir);
         for (const f of entries) {
@@ -70,7 +68,7 @@ async function getCronData() {
 
     // Case automation
     const caseAutomation = await safeRead(
-        path.join(WORKSPACE_ROOT, "CASE_AUTOMATION.md")
+        path.join(WORKSPACE_ROOT, "docs/CASE_AUTOMATION.md")
     );
 
     return { crontabRaw, jobs, stateFiles, scripts, caseAutomation };
