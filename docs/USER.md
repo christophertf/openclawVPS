@@ -2,15 +2,29 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** Chris
+- **What to call them:** Chris
+- **Pronouns:** _(ask when natural)_
+- **Timezone:** America/Los_Angeles (Pacific Time — CA)
+- **Location:** California
 
-## Context
+## Preferences
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
+- Prefers concise responses — no speculative "next thing" suggestions unless asked
+- Prefers 24-hour time format
+- Prefers Celsius for weather/temperature
+- Uses timestamps heavily for factual sequencing and reality-checking
+- Hates redundancy — don't repeat info that's already visible elsewhere
+- Hates wasted tokens — don't preview/screenshot constantly, ask the human instead
+- Values compact, at-a-glance UIs over sprawling pages
+- "If it ain't broke, don't fix it" — favor non-intervention on working systems
+- Allows CLAW to spawn helper sub-agents when useful
+
+## Important Context
+
+- Connects primarily via Telegram.
+- Managing multiple high-stakes projects (Forensic CPRA, Appeal Alignment).
+- Wants systems to be "invisible but visible" (passively monitored via Dashboard).
 
 ---
 

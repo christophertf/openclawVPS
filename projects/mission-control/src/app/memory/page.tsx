@@ -11,7 +11,7 @@ export const dynamic = "force-dynamic";
 
 export default async function MemoryPage() {
     const [memoryLong, changeFeedRaw] = await Promise.all([
-        safeRead(path.join(WORKSPACE_ROOT, "MEMORY.md")),
+        safeRead(path.join(WORKSPACE_ROOT, "docs/MEMORY.md")),
         safeRead(path.join(WORKSPACE_ROOT, "memory/change-feed.log")),
     ]);
 
