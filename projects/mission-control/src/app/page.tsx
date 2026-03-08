@@ -237,25 +237,23 @@ export default async function Home() {
 
       {/* Row 3: Last project + Active automation */}
       <div className="grid gap-3 lg:grid-cols-2">
-        {/* Last active project */}
-        <div className="glass-card p-4 space-y-3">
+        {/* Recent Activity */}
+        <div className="glass-card p-4">
           <div className="flex items-center justify-between mb-2">
-            <span className="text-[10px] uppercase tracking-wider text-zinc-600 font-semibold">Last Active Project</span>
-            <Link href="/projects" className="text-[10px] text-cyan-400 hover:text-cyan-300">All →</Link>
+            <span className="text-[10px] uppercase tracking-wider text-zinc-600 font-semibold">Recent Activity</span>
+            <Link href="/activity" className="text-[10px] text-cyan-400 hover:text-cyan-300">Full feed →</Link>
           </div>
-          {d.projects.length > 0 && (
-            <Link href={`/projects/${d.projects[0].slug}`} className="group flex items-center justify-between">
-              <div>
-                <h3 className="text-sm font-semibold text-zinc-100 group-hover:text-cyan-300 transition-colors">
-                  {d.projects[0].name}
-                </h3>
-                {d.projects[0].description && (
-                  <p className="text-xs text-zinc-500 line-clamp-1 mt-0.5">{d.projects[0].description}</p>
-                )}
+          <div className="space-y-2 max-h-44 overflow-y-auto pr-1">
+            {d.changeFeed.map((entry, i) => (
+              <div key={i} className="flex items-start gap-2">
+                <span className={`text-[9px] font-semibold px-1 py-0.5 rounded flex-shrink-0 mt-0.5 ${entry.actor === "CLAW" ? "bg-cyan-500/15 text-cyan-400"
+                  : entry.actor.startsWith("Antigravity") ? "bg-purple-500/15 text-purple-400"
+                    : "bg-zinc-700/50 text-zinc-400"
+                  }`}>{entry.actor}</span>
+                <p className="text-[11px] text-zinc-400 line-clamp-1">{entry.description}</p>
               </div>
-              <span className="text-xs text-zinc-600 font-mono ml-3">{d.projects[0].fileCount} files</span>
-            </Link>
-          )}
+            ))}
+          </div>
         </div>
 
         {/* Active automation */}
@@ -302,23 +300,25 @@ export default async function Home() {
 
       {/* Row 4: Activity + Journal — side by side, capped height */}
       <div className="grid gap-3 lg:grid-cols-2">
-        {/* Recent Activity */}
-        <div className="glass-card p-4">
+        {/* Last active project */}
+        <div className="glass-card p-4 space-y-3">
           <div className="flex items-center justify-between mb-2">
-            <span className="text-[10px] uppercase tracking-wider text-zinc-600 font-semibold">Recent Activity</span>
-            <Link href="/activity" className="text-[10px] text-cyan-400 hover:text-cyan-300">Full feed →</Link>
+            <span className="text-[10px] uppercase tracking-wider text-zinc-600 font-semibold">Last Active Project</span>
+            <Link href="/projects" className="text-[10px] text-cyan-400 hover:text-cyan-300">All →</Link>
           </div>
-          <div className="space-y-2 max-h-44 overflow-y-auto pr-1">
-            {d.changeFeed.map((entry, i) => (
-              <div key={i} className="flex items-start gap-2">
-                <span className={`text-[9px] font-semibold px-1 py-0.5 rounded flex-shrink-0 mt-0.5 ${entry.actor === "CLAW" ? "bg-cyan-500/15 text-cyan-400"
-                  : entry.actor.startsWith("Antigravity") ? "bg-purple-500/15 text-purple-400"
-                    : "bg-zinc-700/50 text-zinc-400"
-                  }`}>{entry.actor}</span>
-                <p className="text-[11px] text-zinc-400 line-clamp-1">{entry.description}</p>
+          {d.projects.length > 0 && (
+            <Link href={`/projects/${d.projects[0].slug}`} className="group flex items-center justify-between">
+              <div>
+                <h3 className="text-sm font-semibold text-zinc-100 group-hover:text-cyan-300 transition-colors">
+                  {d.projects[0].name}
+                </h3>
+                {d.projects[0].description && (
+                  <p className="text-xs text-zinc-500 line-clamp-1 mt-0.5">{d.projects[0].description}</p>
+                )}
               </div>
-            ))}
-          </div>
+              <span className="text-xs text-zinc-600 font-mono ml-3">{d.projects[0].fileCount} files</span>
+            </Link>
+          )}
         </div>
 
         {/* Latest Journal */}
