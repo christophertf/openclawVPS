@@ -1,0 +1,8 @@
+{
+  "request_received_datetime": "2025-09-29T07:04:00-07:00",
+  "determination_deadline": "2025-10-09T07:04:00-07:00",
+  "extension_claimed": false,
+  "extended_deadline": "2025-10-23T07:04:00-07:00",
+  "effective_deadline": "2025-10-09T07:04:00-07:00",
+  "determination_on_time": true
+}

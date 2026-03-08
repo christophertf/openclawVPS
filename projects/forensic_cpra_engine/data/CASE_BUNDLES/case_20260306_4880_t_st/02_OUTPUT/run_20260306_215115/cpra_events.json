@@ -1,0 +1,20 @@
+{
+  "case_id": "cpra_25-3549",
+  "address": "4880 T ST Sacramento CA 95819",
+  "request_received_datetime": "2025-09-29T07:04:00-07:00",
+  "claims": [
+    "cpra_violation"
+  ],
+  "agency_responses": [
+    {
+      "response_datetime": "2025-10-02T07:04:00-07:00",
+      "response_type": "production",
+      "quoted_text": "_Document Released_ City of Sacramento public records request _25-3549"
+    },
+    {
+      "response_datetime": "2025-10-07T07:04:00-07:00",
+      "response_type": "determination",
+      "quoted_text": "Request status published/closed updates observed"
+    }
+  ]
+}

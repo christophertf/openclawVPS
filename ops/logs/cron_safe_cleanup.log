@@ -1,0 +1,617 @@
+[start] 20260304T060002Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 147 (37641895 bytes)
+Index entries: 147
+Finished in 1.263s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  992K  794M   1% /run
+/dev/sda1        96G   19G   78G  20% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+[done] 20260304T060016Z
+[start] 20260304T120001Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 147 (37641895 bytes)
+Index entries: 147
+Finished in 1.639s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  996K  794M   1% /run
+/dev/sda1        96G   19G   78G  20% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+[done] 20260304T120015Z
+[start] 20260304T180001Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 147 (37641895 bytes)
+Index entries: 147
+Finished in 1.739s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M 1000K  794M   1% /run
+/dev/sda1        96G   19G   77G  20% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+[done] 20260304T180014Z
+[start] 20260305T000002Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 147 (37641895 bytes)
+Index entries: 147
+Finished in 2.823s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  996K  794M   1% /run
+/dev/sda1        96G   19G   77G  20% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+[done] 20260305T000021Z
+[start] 20260305T060001Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 147 (37641895 bytes)
+Index entries: 147
+Finished in 1.55s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  996K  794M   1% /run
+/dev/sda1        96G   19G   77G  20% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+[done] 20260305T060015Z
+[start] 20260305T120001Z
+/home/claw/.openclaw/workspace/projects/appeal_alignment/scripts/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/cpu/amp/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/cpu/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_prims_common/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/linalg/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/monitor/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/cpu/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/quantized/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/cudnn/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/mkldnn/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/opt_einsum/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/openmp/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/mha/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/cusparselt/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/miopen/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/mps/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/cuda/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/kleidiai/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/mkl/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/backends/nnpack/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/compiler/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/special/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_logging/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nested/_internal/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nested/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/futures/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_vendor/packaging/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_vendor/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/export/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/autograd/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/testing/_internal/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/testing/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_higher_order_ops/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_prims/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/distributions/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/sparse/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_export/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/quantized/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/quantized/dynamic/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/quantized/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/attention/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/qat/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/qat/dynamic/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/qat/dynamic/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/qat/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/dynamic/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/dynamic/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/intrinsic/quantized/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/intrinsic/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/intrinsic/qat/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/intrinsic/qat/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/intrinsic/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/utils/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/quantizable/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/quantizable/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/parallel/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/nn/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/jit/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/masked/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/masked/maskedtensor/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_awaits/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/backcompat/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/data/datapipes/map/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/data/datapipes/utils/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/data/datapipes/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/data/datapipes/iter/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/data/datapipes/dataframe/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/data/_utils/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/data/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/utils/serialization/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/quantization/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/distributed/autograd/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/distributed/_pycute/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/distributed/rpc/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/distributed/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/distributed/algorithms/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/mps/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/cuda/amp/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/cuda/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/xpu/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/amp/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/signal/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/signal/windows/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_strobelight/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/func/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/fft/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/ns/fx/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/ns/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/quantized/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/quantized/dynamic/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/quantized/dynamic/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/quantized/reference/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/quantized/reference/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/quantized/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/qat/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/qat/dynamic/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/qat/dynamic/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/qat/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/dynamic/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/dynamic/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/intrinsic/quantized/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/intrinsic/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/intrinsic/qat/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/intrinsic/qat/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/intrinsic/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/sparse/quantized/dynamic/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/sparse/quantized/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/sparse/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/quantizable/modules/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/quantizable/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/nn/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/quantization/pt2e/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/quantization/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/ao/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/fx/passes/infra/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/fx/passes/utils/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/fx/passes/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/fx/experimental/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/fx/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/multiprocessing/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_subclasses/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/optim/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_library/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_refs/linalg/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_refs/special/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_refs/nn/functional/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_refs/nn/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_refs/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_functorch/_aot_autograd/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_functorch/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_decomp/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_dispatch/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/package/analyze/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/package/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/mtia/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/profiler/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/_custom_op/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torch/accelerator/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/_distutils_hack/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/stencils/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/core/rewrites/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/core/datamodel/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/core/typing/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/core/runtime/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/core/types/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/core/typeconv/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/core/annotations/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/core/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/core/unsafe/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/cpython/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/cpython/unsafe/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/misc/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/parfors/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/np/ufunc/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/np/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/typed/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/experimental/jitclass/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/experimental/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/cloudpickle/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numba/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/tiktoken/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/tqdm/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/llvmlite/ir/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/llvmlite/binding/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/llvmlite/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/torchgen/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/regex/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numpy/linalg/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numpy/random/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numpy/polynomial/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numpy/_core/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numpy/_typing/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numpy/lib/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numpy/matrixlib/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numpy/_utils/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/numpy/__pycache__
+/home/claw/.local/share/uv/tools/openai-whisper/lib/python3.12/site-packages/whisper/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/pydantic_core/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/jiter/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/httpcore/_backends/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/httpcore/_sync/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/httpcore/_async/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/httpcore/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/idna/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/dotenv/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/anyio/streams/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/anyio/_core/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/anyio/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/anyio/abc/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/pydantic/_internal/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/pydantic/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/pydantic/plugin/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/annotated_types/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/httpx/_transports/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/httpx/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/sniffio/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/audio/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/skills/versions/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/skills/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/containers/files/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/containers/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/beta/threads/runs/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/beta/threads/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/beta/chatkit/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/beta/realtime/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/beta/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/uploads/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/chat/completions/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/chat/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/fine_tuning/checkpoints/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/fine_tuning/jobs/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/fine_tuning/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/fine_tuning/alpha/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/evals/runs/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/evals/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/vector_stores/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/resources/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/_extras/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/lib/streaming/chat/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/lib/streaming/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/lib/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/lib/_parsing/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/audio/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/skills/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/containers/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/shared/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/beta/threads/runs/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/beta/threads/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/beta/chatkit/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/beta/realtime/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/beta/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/graders/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/shared_params/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/uploads/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/chat/completions/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/chat/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/fine_tuning/checkpoints/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/fine_tuning/jobs/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/fine_tuning/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/fine_tuning/alpha/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/evals/runs/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/evals/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/vector_stores/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/responses/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/types/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/_utils/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/openai/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/typing_inspection/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/h11/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/distro/__pycache__
+/home/claw/.cache/uv/archive-v0/LOC73EViUk9UgqOH1Dusk/lib/python3.12/site-packages/certifi/__pycache__
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 147 (37641895 bytes)
+Index entries: 147
+Finished in 3.339s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.0M  794M   1% /run
+/dev/sda1        96G   20G   77G  21% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260305T120013Z
+[start] 20260305T180002Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Content garbage-collected: 15 (5663117 bytes)
+Index entries: 1358
+Finished in 9.899s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.0M  794M   1% /run
+/dev/sda1        96G   21G   76G  21% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260305T180021Z
+[start] 20260306T000001Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 22.77s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.0M  794M   1% /run
+/dev/sda1        96G   21G   76G  21% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260306T000045Z
+[start] 20260306T060002Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 11.44s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M 1000K  794M   1% /run
+/dev/sda1        96G   21G   76G  21% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+[done] 20260306T060029Z
+[start] 20260306T120002Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 11.683s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.0M  794M   1% /run
+/dev/sda1        96G   21G   76G  21% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260306T120028Z
+[start] 20260306T180002Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 11.041s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.0M  794M   1% /run
+/dev/sda1        96G   21G   76G  21% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260306T180025Z
+[start] 20260307T000002Z
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/gates/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/cpra/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/evidence_vault/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/truststore/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/tomli_w/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/msgpack/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/dependency_groups/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/filters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/tomli/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/distro/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pkg_resources/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/certifi/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/locations/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/distributions/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/req/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/resolution/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/metadata/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/index/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/operations/install/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/operations/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/vcs/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/assertion/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/_code/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/_py/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/config/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/mark/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/_io/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/iniconfig/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pluggy/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/packaging/licenses/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/packaging/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pytest/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/lexers/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/filters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/styles/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/formatters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_yaml/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/yaml/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/tests/__pycache__
+Files removed: 42
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 25.932s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.1M  794M   1% /run
+/dev/sda1        96G   21G   76G  22% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260307T000049Z
+[start] 20260307T060001Z
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/gates/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/cpra/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/evidence_vault/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/claim_loop/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/assertion/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/_code/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/_py/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/config/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/mark/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/_io/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/iniconfig/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pluggy/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pytest/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/lexers/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/filters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/styles/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/formatters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/yaml/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/tests/__pycache__
+Files removed: 0
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 11.099s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.1M  794M   1% /run
+/dev/sda1        96G   21G   76G  22% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260307T060028Z
+[start] 20260307T120001Z
+Files removed: 0
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 9.086s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.1M  794M   1% /run
+/dev/sda1        96G   21G   76G  22% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260307T120023Z
+[start] 20260307T180001Z
+Files removed: 0
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 9.457s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.1M  794M   1% /run
+/dev/sda1        96G   21G   76G  22% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260307T180023Z
+[start] 20260308T000002Z
+Files removed: 0
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1967 (1159438670 bytes)
+Content garbage-collected: 4 (31385924 bytes)
+Index entries: 1967
+Finished in 45.091s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.1M  794M   1% /run
+/dev/sda1        96G   22G   75G  23% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260308T000142Z
+[start] 20260308T060001Z
+Files removed: 0
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1967 (1159438670 bytes)
+Index entries: 1967
+Finished in 13.549s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.1M  794M   1% /run
+/dev/sda1        96G   22G   75G  23% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260308T060030Z

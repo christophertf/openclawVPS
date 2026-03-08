@@ -1,0 +1,14 @@
+[start] 20260306T060002Z
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 11.44s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M 1000K  794M   1% /run
+/dev/sda1        96G   21G   76G  21% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+[done] 20260306T060029Z
