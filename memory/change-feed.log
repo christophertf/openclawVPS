@@ -32,4 +32,4 @@
 2026-03-08T10:39:00Z [Antigravity (model-37)] Removed accidentally tracked .venv and added to .gitignore.
 2026-03-08T10:55:00Z [Antigravity (model-37)] Layout refresh: moved full-width Terminal Feed up, simplified top tiles, combined Heartbeat into Scheduled Automation.
 2026-03-08T11:00:00Z [Antigravity (model-37)] Dashboard tweaks: Swapped "Last Active Project" and "Recent Activity" cards.
-2026-03-08T11:15:00Z [Antigravity (model-37)] Repository Reorganization: Moved root level assets into docs, data, and metadata for a cleaner top-level structure. Updated Mission Control paths across all pages to match.
+2026-03-08T11:15:00Z [Antigravity (model-37)] Repository Reorganization: Moved root level assets into docs, data, and metadata for a cleaner top-level structure. Updated Mission Control paths across all pages to match. Restored personal identity, user, soul, and memory files accidentally swapped for defaults during reorganization.
