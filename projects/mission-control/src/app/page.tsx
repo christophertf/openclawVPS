@@ -216,13 +216,10 @@ export default async function Home() {
       </div>
 
       {/* Row 1: Counters bar */}
-      <div className="grid grid-cols-5 gap-2">
+      <div className="grid grid-cols-2 gap-2">
         {[
           { label: "Projects", value: d.projects.length, color: "text-cyan-400", href: "/projects" },
-          { label: "Cron Jobs", value: d.cronJobs.length, color: "text-amber-400", href: "/cron" },
-          { label: "Scripts", value: d.scriptCount, color: "text-rose-400", href: "/tools" },
-          { label: "Memory", value: d.memoryFiles.length, color: "text-purple-400", href: "/memory" },
-          { label: "Feed", value: d.changeFeed.length + "+", color: "text-emerald-400", href: "/activity" },
+          { label: "Active Cron Hooks", value: d.cronJobs.length, color: "text-amber-400", href: "/cron" },
         ].map((s) => (
           <Link key={s.label} href={s.href}
             className="rounded-lg bg-zinc-900/40 border border-zinc-800/30 px-3 py-2 flex items-center justify-between hover:border-zinc-700/40 transition-colors"
@@ -233,59 +230,41 @@ export default async function Home() {
         ))}
       </div>
 
-      {/* Row 2: Last project + Cron jobs */}
-      <div className="grid gap-3 lg:grid-cols-2">
-        {/* Last active project + heartbeat */}
-        <div className="glass-card p-4 space-y-3">
-          <div>
-            <div className="flex items-center justify-between mb-2">
-              <span className="text-[10px] uppercase tracking-wider text-zinc-600 font-semibold">Last Active Project</span>
-              <Link href="/projects" className="text-[10px] text-cyan-400 hover:text-cyan-300">All →</Link>
-            </div>
-            {d.projects.length > 0 && (
-              <Link href={`/projects/${d.projects[0].slug}`} className="group flex items-center justify-between">
-                <div>
-                  <h3 className="text-sm font-semibold text-zinc-100 group-hover:text-cyan-300 transition-colors">
-                    {d.projects[0].name}
-                  </h3>
-                  {d.projects[0].description && (
-                    <p className="text-xs text-zinc-500 line-clamp-1 mt-0.5">{d.projects[0].description}</p>
-                  )}
-                </div>
-                <span className="text-xs text-zinc-600 font-mono ml-3">{d.projects[0].fileCount} files</span>
-              </Link>
-            )}
-          </div>
+      {/* Row 2: Live terminal (Moved up) */}
+      <div style={{ height: 350 }}>
+        <TerminalWindow />
+      </div>
 
-          <div className="pt-2 border-t border-zinc-800/40">
-            <div className="flex items-center justify-between mb-1">
-              <span className="text-[10px] uppercase tracking-wider text-zinc-600 font-semibold">Heartbeat</span>
-              <span className={`text-[10px] px-1.5 py-0.5 rounded-full border font-semibold ${d.heartbeat.state === "on-schedule"
-                ? "bg-emerald-500/15 text-emerald-400 border-emerald-500/25"
-                : d.heartbeat.state === "overdue"
-                  ? "bg-amber-500/15 text-amber-400 border-amber-500/25"
-                  : "bg-zinc-700/30 text-zinc-400 border-zinc-700/40"
-                }`}>
-                {d.heartbeat.state === "on-schedule" ? "On schedule" : d.heartbeat.state === "overdue" ? "Overdue" : "Unknown"}
-              </span>
-            </div>
-            <p className="text-[11px] text-zinc-400">
-              Last run: <span className="font-mono text-zinc-300">{d.heartbeat.lastRunAt}</span>
-              {d.heartbeat.minutesAgo !== null && (
-                <span className="text-zinc-500"> ({d.heartbeat.minutesAgo}m ago)</span>
-              )}
-            </p>
-            <p className="text-[10px] text-zinc-600">Cadence: every {d.heartbeat.everyMinutes}m</p>
-            <p className="text-[11px] text-zinc-500 line-clamp-2 mt-1">{d.heartbeat.lastResult}</p>
+      {/* Row 3: Last project + Active automation */}
+      <div className="grid gap-3 lg:grid-cols-2">
+        {/* Last active project */}
+        <div className="glass-card p-4 space-y-3">
+          <div className="flex items-center justify-between mb-2">
+            <span className="text-[10px] uppercase tracking-wider text-zinc-600 font-semibold">Last Active Project</span>
+            <Link href="/projects" className="text-[10px] text-cyan-400 hover:text-cyan-300">All →</Link>
           </div>
+          {d.projects.length > 0 && (
+            <Link href={`/projects/${d.projects[0].slug}`} className="group flex items-center justify-between">
+              <div>
+                <h3 className="text-sm font-semibold text-zinc-100 group-hover:text-cyan-300 transition-colors">
+                  {d.projects[0].name}
+                </h3>
+                {d.projects[0].description && (
+                  <p className="text-xs text-zinc-500 line-clamp-1 mt-0.5">{d.projects[0].description}</p>
+                )}
+              </div>
+              <span className="text-xs text-zinc-600 font-mono ml-3">{d.projects[0].fileCount} files</span>
+            </Link>
+          )}
         </div>
 
         {/* Active automation */}
-        <div className="glass-card p-4">
-          <div className="flex items-center justify-between mb-2">
-            <span className="text-[10px] uppercase tracking-wider text-zinc-600 font-semibold">Active Automation</span>
+        <div className="glass-card p-4 flex flex-col space-y-3">
+          <div className="flex items-center justify-between">
+            <span className="text-[10px] uppercase tracking-wider text-zinc-600 font-semibold">Scheduled Automation</span>
             <Link href="/cron" className="text-[10px] text-cyan-400 hover:text-cyan-300">Details →</Link>
           </div>
+
           <div className="flex flex-wrap gap-2">
             {d.cronJobs.map((job, i) => (
               <div key={i} className="flex items-center gap-2 rounded-lg bg-zinc-900/30 border border-zinc-800/20 px-2.5 py-1.5">
@@ -297,10 +276,31 @@ export default async function Home() {
               </div>
             ))}
           </div>
+
+          <div className="pt-2 border-t border-zinc-800/40">
+            <div className="flex items-center justify-between mb-1">
+              <span className="text-[10px] text-zinc-500 font-semibold">Agent Heartbeat</span>
+              <span className={`text-[10px] px-1.5 py-0.5 rounded-full border font-semibold ${d.heartbeat.state === "on-schedule"
+                ? "bg-emerald-500/15 text-emerald-400 border-emerald-500/25"
+                : d.heartbeat.state === "overdue"
+                  ? "bg-amber-500/15 text-amber-400 border-amber-500/25"
+                  : "bg-zinc-700/30 text-zinc-400 border-zinc-700/40"
+                }`}>
+                {d.heartbeat.state === "on-schedule" ? "On schedule" : d.heartbeat.state === "overdue" ? "Overdue" : "Unknown"}
+              </span>
+            </div>
+            <p className="text-[11px] text-zinc-400">
+              Run: <span className="font-mono text-zinc-300">{d.heartbeat.lastRunAt}</span>
+              {d.heartbeat.minutesAgo !== null && (
+                <span className="text-zinc-500"> ({d.heartbeat.minutesAgo}m ago)</span>
+              )}
+              <span className="text-zinc-600 ml-2">Cadence: {d.heartbeat.everyMinutes}m</span>
+            </p>
+          </div>
         </div>
       </div>
 
-      {/* Row 3: Activity + Journal — side by side, capped height */}
+      {/* Row 4: Activity + Journal — side by side, capped height */}
       <div className="grid gap-3 lg:grid-cols-2">
         {/* Recent Activity */}
         <div className="glass-card p-4">
@@ -345,10 +345,6 @@ export default async function Home() {
         </div>
       </div>
 
-      {/* Row 4: Live terminal */}
-      <div style={{ height: 350 }}>
-        <TerminalWindow />
-      </div>
     </div>
   );
 }
