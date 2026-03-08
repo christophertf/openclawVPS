@@ -146,7 +146,7 @@ async function getHeartbeatSnapshot(): Promise<HeartbeatSnapshot> {
 async function getDashboardData() {
   const [changeFeedRaw, identityRaw] = await Promise.all([
     safeRead(path.join(WORKSPACE_ROOT, "memory/change-feed.log")),
-    safeRead(path.join(WORKSPACE_ROOT, "IDENTITY.md")),
+    safeRead(path.join(WORKSPACE_ROOT, "docs/IDENTITY.md")),
   ]);
 
   const projects = await discoverProjects();
