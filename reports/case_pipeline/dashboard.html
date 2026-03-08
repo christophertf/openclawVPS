@@ -1,0 +1,42 @@
+<!doctype html>
+<html><head><meta charset='utf-8'><title>Case Momentum Dashboard</title>
+<style>
+body{font-family:Inter,Arial,sans-serif;background:#0b1020;color:#e8eefc;margin:24px}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(180px,1fr));gap:12px}
+.card{background:#111a33;border:1px solid #26345f;border-radius:12px;padding:14px}
+.big{font-size:28px;font-weight:700}
+.label{color:#9cb0de;font-size:12px;text-transform:uppercase;letter-spacing:.08em}
+.meter{height:20px;background:#1a2547;border-radius:999px;overflow:hidden;border:1px solid #2c3f76}
+.fill{height:100%;width:7%;background:linear-gradient(90deg,#22c55e,#84cc16)}
+small{color:#9cb0de}
+</style></head><body>
+<h1>Case Momentum Dashboard</h1>
+<small>Last run: 2026-02-26 20:46 PST (UTC: 2026-02-27T04:46:28Z)</small>
+<div class='grid'>
+  <div class='card'><div class='label'>Current Files</div><div class='big'>1155</div></div>
+  <div class='card'><div class='label'>Exact Dups Removed (Total)</div><div class='big'>80</div></div>
+  <div class='card'><div class='label'>Near Decisions Applied</div><div class='big'>14</div></div>
+  <div class='card'><div class='label'>Pending Near Approvals</div><div class='big'>144</div></div>
+</div>
+<h2>Overall Progress (file-count reduction from baseline)</h2>
+<div class='meter'><div class='fill'></div></div>
+<p><b>7.6%</b> complete &nbsp; • &nbsp; baseline 1250 → now 1155</p>
+<h2>Quality Queue</h2>
+<div class='grid'>
+  <div class='card'><div class='label'>Exact Duplicates Remaining</div><div class='big'>0</div></div>
+  <div class='card'><div class='label'>Fragment Candidates</div><div class='big'>3</div></div>
+  <div class='card'><div class='label'>Changed Files Hashed (This Run)</div><div class='big'>0</div></div>
+  <div class='card'><div class='label'>Near Candidates Pending</div><div class='big'>144</div></div>
+</div>
+<h2>Current Focus</h2>
+<pre style='background:#111a33;border:1px solid #26345f;border-radius:10px;padding:12px;color:#cfe0ff'># CURRENT_FOCUS
+
+Updated: 2026-02-26 20:46 PST (2026-02-27T04:46:28Z)
+
+- Keep CASE_FILES as source-of-truth intake
+- Auto-remove exact duplicates (recoverable trash)
+- Queue near-duplicates for your approval decisions
+- Preserve traceability via status/progress/action logs
+</pre>
+<p><small>Approvals file: /home/claw/.openclaw/workspace/reports/case_pipeline/near_approvals.json</small></p>
+</body></html>

@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "item_number": 3,
+      "title": "0",
+      "chunk_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "confidence": 1,
+      "notes": "Opening remarks and procedural details related to the hearing."
+    },
+    {
+      "item_number": 5,
+      "title": "30 p.m.",
+      "chunk_ids": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "confidence": 1,
+      "notes": "Discussion regarding the specific case at 1717 19th Street."
+    },
+    {
+      "item_number": 7,
+      "title": "51 PM",
+      "chunk_ids": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "confidence": 1,
+      "notes": "Continued discussion on the case at 3841 Clay Street."
+    },
+    {
+      "item_number": 8,
+      "title": "Election of Chair and Vice Chair for 2025",
+      "chunk_ids": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "confidence": 1,
+      "notes": "Procedural discussion regarding the election of chair and vice chair."
+    },
+    {
+      "item_number": 14,
+      "title": "012733/                803 BLAINE AV/              PRASAD",
+      "chunk_ids": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "confidence": 1,
+      "notes": "Discussion regarding the case at 803 Blaine Ave."
+    },
+    {
+      "item_number": 16,
+      "title": "006685/              3117 GARDENDALE RD/",
+      "chunk_ids": [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "confidence": 1,
+      "notes": "Discussion regarding the case at 3117 Gardendale Rd."
+    },
+    {
+      "item_number": 17,
+      "title": "006385/                 3975 39TH ST/",
+      "chunk_ids": [],
+      "confidence": 0,
+      "notes": "No chunks assigned."
+    },
+    {
+      "item_number": 18,
+      "title": "033183/               5270 RIVERSIDE BL/",
+      "chunk_ids": [],
+      "confidence": 0,
+      "notes": "No chunks assigned."
+    },
+    {
+      "item_number": 19,
+      "title": "035467/               544 PINEDALE AV/",
+      "chunk_ids": [],
+      "confidence": 0,
+      "notes": "No chunks assigned."
+    },
+    {
+      "item_number": 20,
+      "title": "010129/                  1023 J ST/",
+      "chunk_ids": [],
+      "confidence": 0,
+      "notes": "No chunks assigned."
+    },
+    {
+      "item_number": 21,
+      "title": "048669/              3634 MARYSVILLE BL/",
+      "chunk_ids": [],
+      "confidence": 0,
+      "notes": "No chunks assigned."
+    },
+    {
+      "item_number": 22,
+      "title": "042887/             7604 VALLECITOS WY/",
+      "chunk_ids": [],
+      "confidence": 0,
+      "notes": "No chunks assigned."
+    },
+    {
+      "item_number": 23,
+      "title": "032288/               3916 WINTERS ST/",
+      "chunk_ids": [],
+      "confidence": 0,
+      "notes": "No chunks assigned."
+    },
+    {
+      "item_number": 24,
+      "title": "036146/               1828 TRIBUTE RD/",
+      "chunk_ids": [],
+      "confidence": 0,
+      "notes": "No chunks assigned."
+    }
+  ],
+  "global_notes": "All transcript chunks have been assigned to the corresponding agenda items based on the content and context of the discussions."
+}

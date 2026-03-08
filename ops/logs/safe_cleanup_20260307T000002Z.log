@@ -1,0 +1,94 @@
+[start] 20260307T000002Z
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/gates/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/cpra/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/evidence_vault/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/src/app/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/distlib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/caches/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/cachecontrol/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/truststore/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/tomli_w/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/idna/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/msgpack/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/dependency_groups/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/util/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/backports/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/packages/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/urllib3/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/licenses/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/packaging/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/resolvers/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/resolvelib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/lexers/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/filters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/styles/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/formatters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pygments/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/platformdirs/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/tomli/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pyproject_hooks/_in_process/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/distro/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/pkg_resources/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/requests/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/certifi/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_vendor/rich/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/locations/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/distributions/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/req/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/resolution/legacy/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/resolution/resolvelib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/resolution/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/utils/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/cli/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/metadata/importlib/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/metadata/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/index/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/network/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/models/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/operations/build/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/operations/install/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/operations/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/commands/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/_internal/vcs/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pip/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/assertion/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/_code/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/_py/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/config/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/mark/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_pytest/_io/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/iniconfig/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pluggy/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/packaging/licenses/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/packaging/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pytest/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/lexers/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/filters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/styles/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/formatters/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/pygments/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/_yaml/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/.venv/lib/python3.12/site-packages/yaml/__pycache__
+/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/tests/__pycache__
+Files removed: 42
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1358 (720048325 bytes)
+Index entries: 1358
+Finished in 25.932s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.1M  794M   1% /run
+/dev/sda1        96G   21G   76G  22% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260307T000049Z

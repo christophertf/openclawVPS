@@ -1,0 +1,28 @@
+{
+    "projects": [
+        {
+            "slug": "forensic_cpra_engine",
+            "channel": "#case-research",
+            "status": "active",
+            "started": "2026-02-01"
+        },
+        {
+            "slug": "appeal_alignment",
+            "channel": "#case-research",
+            "status": "active",
+            "started": "2026-01-10"
+        },
+        {
+            "slug": "mission-control",
+            "channel": "#ops",
+            "status": "active",
+            "started": "2026-03-07"
+        }
+    ],
+    "meta_channels": [
+        {
+            "name": "#ops",
+            "purpose": "General operations, admin, system maintenance"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+  "generated_at_utc": "2026-03-06T21:51:15.800296+00:00",
+  "case_dir": "/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/data/CASE_BUNDLES/case_20260306_4880_t_st",
+  "source_dir": "/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/data/CASE_BUNDLES/case_20260306_4880_t_st/00_ORIGINALS_IMMUTABLE",
+  "vault_dir": "/home/claw/.openclaw/workspace/projects/forensic_cpra_engine/data/CASE_BUNDLES/case_20260306_4880_t_st/00_VAULT",
+  "file_count": 19,
+  "files": [
+    {
+      "relative_path": "2025-09-29-Your City of Sacramento public records request _25-3549 has been submitted..pdf",
+      "size_bytes": 166787,
+      "mtime_epoch": 1772833875,
+      "sha256": "e6a7000c24730567e86725d997bf16cea5314362e365481d5febeeffeebee6b7"
+    },
+    {
+      "relative_path": "2025-09-30-Fwd_ Inspection at 4800 T ST.pdf",
+      "size_bytes": 233792,
+      "mtime_epoch": 1772833875,
+      "sha256": "1886927fc689d329e83f9d527392c87b0d5ffbf46eab87d10770341d7c7ecef7"
+    },
+    {
+      "relative_path": "2025-10-02-_Document Released_ City of Sacramento public records request _25-3549.pdf",
+      "size_bytes": 192318,
+      "mtime_epoch": 1772833875,
+      "sha256": "3be7405335997db17bd8c0f5fe7d8bd2dc4f00c4c09406d9262fe931ba021236"
+    },
+    {
+      "relative_path": "2025-10-07-Your City of Sacramento public records request _25-3549 has been closed..pdf",
+      "size_bytes": 157031,
+      "mtime_epoch": 1772833875,
+      "sha256": "0dd12e925f89abd5efabe0b04e8917f4f8177d05b1bfb9b2c1c70a66bc0f1cb6"
+    },
+    {
+      "relative_path": "2025-10-07-Your City of Sacramento public records request _25-3549 has been published..pdf",
+      "size_bytes": 154970,
+      "mtime_epoch": 1772833875,
+      "sha256": "78feac33ee9c6f30e0210ea97291d798c7d6cefba72b6845999ecbb9e14dc0a7"
+    },
+    {
+      "relative_path": "2025-10-07-_Document Released_ City of Sacramento public records request _25-3549.pdf",
+      "size_bytes": 223438,
+      "mtime_epoch": 1772833875,
+      "sha256": "692d308f38784ad86cdf9421a19bb2069bfd16bc8a177d4ca88f4f2227dae8b5"
+    },
+    {
+      "relative_path": "2025-10-16-Your City of Sacramento public records request _25-3549 has been reopened..pdf",
+      "size_bytes": 155967,
+      "mtime_epoch": 1772833875,
+      "sha256": "1614074a0c6719a7eff583a2b3989a40428410ac6c69d767b99bccab839d65cd"
+    },
+    {
+      "relative_path": "2025-10-16-_External Message Added_ City of Sacramento public records request _25-3549.pdf",
+      "size_bytes": 185577,
+      "mtime_epoch": 1772833875,
+      "sha256": "7f071d9010ed29191eb12ca74ee12c2a36a92c15f49fadff9a89a9f034867da9"
+    },
+    {
+      "relative_path": "2025-10-23-Your City of Sacramento public records request _25-3549 has been closed..pdf",
+      "size_bytes": 156575,
+      "mtime_epoch": 1772833875,
+      "sha256": "365aadf47f05da02cf9789f43ba4fefa87c790e95ebce46bdf96fb74a3019138"
+    },
+    {
+      "relative_path": "2025-10-23-Your City of Sacramento public records request _25-3549 has been published..pdf",
+      "size_bytes": 154523,
+      "mtime_epoch": 1772833875,
+      "sha256": "da294872c3aee84eed9d25dbce17c9605486f93b7530612f24e859581057ad6f"
+    },
+    {
+      "relative_path": "2025-10-23-_Document Released_ City of Sacramento public records request _25-3549.pdf",
+      "size_bytes": 197228,
+      "mtime_epoch": 1772833875,
+      "sha256": "9455a0b605dcaedb38906e8df08ed364899c78915ed10b872211776b93ae60d0"
+    },
+    {
+      "relative_path": "2025-10-27-Your City of Sacramento public records request _25-3549 has been reopened..pdf",
+      "size_bytes": 154335,
+      "mtime_epoch": 1772833875,
+      "sha256": "943999f6bcd7daaa973a3dfb11eb4d142623c602cb8d42f2c06b32e5b2cc7b89"
+    },
+    {
+      "relative_path": "2025-10-30-_External Message Added_ City of Sacramento public records request _25-3549.pdf",
+      "size_bytes": 184592,
+      "mtime_epoch": 1772833875,
+      "sha256": "37ddd8102dfab7d3aa942017b59bddb7874fe57739956fd14dc61ae2ac3b223b"
+    },
+    {
+      "relative_path": "2025-10-31-_Document Released_ City of Sacramento public records request _25-3549.pdf",
+      "size_bytes": 188667,
+      "mtime_epoch": 1772833875,
+      "sha256": "3a814abddb8b1cdaf531c5e071e31e1301c69b2db3b42434c12187ac368c1aaa"
+    },
+    {
+      "relative_path": "2025-11-06-_Document Released_ City of Sacramento public records request _25-3549.pdf",
+      "size_bytes": 197449,
+      "mtime_epoch": 1772833875,
+      "sha256": "9e44bc22a492b8e28c012f9029b8bb8d6a2fe2f00d68ec53710b90c7d90e461c"
+    },
+    {
+      "relative_path": "2025-11-07-Your City of Sacramento public records request _25-3549 has been closed..pdf",
+      "size_bytes": 157401,
+      "mtime_epoch": 1772833875,
+      "sha256": "e723b13e85f558866472b7bd6cf31521a937dd89a0a54b7c9f5720765cd9bb8c"
+    },
+    {
+      "relative_path": "2025-11-07-Your City of Sacramento public records request _25-3549 has been published..pdf",
+      "size_bytes": 154723,
+      "mtime_epoch": 1772833875,
+      "sha256": "ee2698a7bb21883e923b2c69c6972ae46cabb350a66711868020eed11158adb1"
+    },
+    {
+      "relative_path": "2025-11-07-_Document Released_ City of Sacramento public records request _25-3549.pdf",
+      "size_bytes": 189360,
+      "mtime_epoch": 1772833875,
+      "sha256": "03895b81a0390be71f94dc2bdb27fe7a1c02febe89f0d93226c6d8af1fdcf427"
+    },
+    {
+      "relative_path": "25-3549.pdf",
+      "size_bytes": 756332,
+      "mtime_epoch": 1772833875,
+      "sha256": "01f91c593788161eb14bbad893d2795de07bb88a76138f7412c8559bbda2fed0"
+    }
+  ]
+}

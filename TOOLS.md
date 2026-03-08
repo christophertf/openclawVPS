@@ -38,3 +38,16 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
+
+### Chris desktop (local machine)
+
+- Model: ASUS TUF GAMING Z790-PLUS WIFI
+- RAM: 32.0 GiB
+- CPU: Intel Core i9-13900KF (32 threads)
+- GPU: NVIDIA GeForce RTX 4070 SUPER
+- Disk: 4.0 TB
+- OS: Ubuntu 24.04.3 LTS (64-bit)
+- GNOME: 46
+- Window system: X11
+- Kernel: Linux 6.14.0-37-generic
+- Firmware version: 1604

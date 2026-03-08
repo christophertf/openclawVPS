@@ -6,3 +6,26 @@
 2026-02-21T00:20:01Z CLAW: added pre-commit protection to block direct local commits on main; set global git author to OpenClaw Bot for clear commit attribution.
 2026-02-21T00:22:37Z Antigravity: appended session summary (openclaw setup, telegram test, workflow sync rules & repository linkage) to memory/2026-02-21.md.
 2026-02-21T00:33:14Z Antigravity: added `scripts/sync.sh` to handle post-PR merging synchronization automatically, and upgraded `scripts/preflight.sh` to check remote drift.
+2026-02-21T03:29:20Z CLAW: ran final prior-stage verification checks and recorded wrap-up pass results in memory/2026-02-21.md.
+2026-02-21T03:39:06Z CLAW: created STOCK-STUFF.md inventory from docs (stock capabilities + verification checklist).
+2026-02-21T03:46:40Z CLAW: ran stock-skill eligibility + smoke tests and updated STOCK-STUFF.md with corrected ready list and test results.
+2026-02-21T03:50:42Z CLAW: marked weather as confirmed-ready in STOCK-STUFF.md after live Sacramento weather check with Chris.
+2026-02-21T03:54:37Z CLAW: expanded weather entry in STOCK-STUFF.md with tested capability limits (3-day horizon, hourly granularity, supported fields, practical constraints).
+2026-02-21T04:01:27Z CLAW: recorded Chris preferences for 24-hour time, Celsius default, and timestamp-first sequencing in USER.md + daily memory.
+2026-02-21T04:28:07Z CLAW: marked openai-whisper-api as should-work/not-tested and logged future task to migrate transcription to local/offline path.
+2026-02-22T09:31:14Z CLAW: finalized Discord additive setup notes for session closeout; kept Telegram as primary private lane and documented channel-isolated Discord context usage.
+2026-02-25T23:21:00Z CLAW: saved Chris local desktop hardware/software specs from screenshot into TOOLS.md and memory/2026-02-25.md.
+2026-03-05T14:56:52Z [sys-recovery] Added missing MEMORY.md and activated HEARTBEAT.md
+2026-03-08T05:00:00Z Antigravity: upgraded Mission Control to multi-page command center with sidebar navigation, 9 pages (Dashboard, Projects, Agents, Memory, Cron, Live Feed, Command Reference, Tools, Settings).
+2026-03-08T05:04:00Z Antigravity: created projects.json registry mapping Discord channels ↔ projects (Option B: channels = projects + meta channels).
+2026-03-08T05:10:00Z Antigravity: added Command Reference page with channel↔project map, command cheat sheet, and quick tips.
+2026-03-08T05:30:00Z Antigravity: fixed TypeScript ES2018 regex flag error in data.ts, bumped tsconfig target.
+2026-03-08T05:44:00Z Antigravity: fixed dashboard timestamps from UTC to Pacific Time (America/Los_Angeles).
+2026-03-08T05:45:00Z Antigravity: replaced redundant project listing on dashboard with Quick Glance (last active project + compact stats).
+2026-03-08T06:35:00Z Antigravity: removed casefilecleanup_watchdog cron job (was running every 5 min unnecessarily). Added Active Automation section to dashboard.
+2026-03-08T06:42:00Z Antigravity: disabled Next.js dev indicator icon, updated change-feed.log with today's session activity.
+2026-03-08T07:49:44Z [CLAW] Mission Control: added dashboard heartbeat monitor (last run timestamp, result summary, schedule state from session logs + openclaw heartbeat cadence) in projects/mission-control/src/app/page.tsx
+2026-03-08T08:15:00Z Antigravity: Migrated ops scripts and logs from CASE_FILES to .openclaw/workspace/ops, updated crontab to use Los Angeles timezone locally.
+2026-03-08T08:35:00Z [Antigravity (model-37)] Refactored TerminalWindow from click tabs to a side-by-side continuous multi-pane view, increased window height so all system logs can be monitored passively simultaneously.
+2026-03-08T10:23:02Z [CLAW] Added user preference to USER.md: proactively escalate when blocked and unable to self-fix.
+2026-03-08T10:25:00Z [Antigravity (model-37)] Mass commit of 1130 workspace changes, including dashboard redesign, cpra engine, and feed refactors.

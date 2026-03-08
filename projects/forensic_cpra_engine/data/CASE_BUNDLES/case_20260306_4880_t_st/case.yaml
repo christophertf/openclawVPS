@@ -1,0 +1,57 @@
+case_id: "cpra_25-3549"
+address: "4880 T ST Sacramento CA 95819"
+request_received_datetime: "2025-09-29T07:04:00-07:00"
+claims:
+  - cpra_violation
+agency_responses:
+  - response_datetime: "2025-09-29T07:04:00-07:00"
+    response_type: determination
+    quoted_text: "Your City of Sacramento public records request _25-3549 has been submitted."
+  - response_datetime: "2025-10-02T07:04:00-07:00"
+    response_type: production
+    quoted_text: "_Document Released_ City of Sacramento public records request _25-3549"
+  - response_datetime: "2025-10-07T07:04:00-07:00"
+    response_type: determination
+    quoted_text: "Your City of Sacramento public records request _25-3549 has been closed."
+  - response_datetime: "2025-10-07T07:04:00-07:00"
+    response_type: determination
+    quoted_text: "Your City of Sacramento public records request _25-3549 has been published."
+  - response_datetime: "2025-10-07T07:04:00-07:00"
+    response_type: production
+    quoted_text: "_Document Released_ City of Sacramento public records request _25-3549"
+  - response_datetime: "2025-10-16T07:04:00-07:00"
+    response_type: production
+    quoted_text: "Your City of Sacramento public records request _25-3549 has been reopened."
+  - response_datetime: "2025-10-16T07:04:00-07:00"
+    response_type: production
+    quoted_text: "_External Message Added_ City of Sacramento public records request _25-3549"
+  - response_datetime: "2025-10-23T07:04:00-07:00"
+    response_type: determination
+    quoted_text: "Your City of Sacramento public records request _25-3549 has been closed."
+  - response_datetime: "2025-10-23T07:04:00-07:00"
+    response_type: determination
+    quoted_text: "Your City of Sacramento public records request _25-3549 has been published."
+  - response_datetime: "2025-10-23T07:04:00-07:00"
+    response_type: production
+    quoted_text: "_Document Released_ City of Sacramento public records request _25-3549"
+  - response_datetime: "2025-10-27T07:04:00-07:00"
+    response_type: production
+    quoted_text: "Your City of Sacramento public records request _25-3549 has been reopened."
+  - response_datetime: "2025-10-30T07:04:00-07:00"
+    response_type: production
+    quoted_text: "_External Message Added_ City of Sacramento public records request _25-3549"
+  - response_datetime: "2025-10-31T07:04:00-07:00"
+    response_type: production
+    quoted_text: "_Document Released_ City of Sacramento public records request _25-3549"
+  - response_datetime: "2025-11-06T07:04:00-07:00"
+    response_type: production
+    quoted_text: "_Document Released_ City of Sacramento public records request _25-3549"
+  - response_datetime: "2025-11-07T07:04:00-07:00"
+    response_type: determination
+    quoted_text: "Your City of Sacramento public records request _25-3549 has been closed."
+  - response_datetime: "2025-11-07T07:04:00-07:00"
+    response_type: determination
+    quoted_text: "Your City of Sacramento public records request _25-3549 has been published."
+  - response_datetime: "2025-11-07T07:04:00-07:00"
+    response_type: production
+    quoted_text: "_Document Released_ City of Sacramento public records request _25-3549"

@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "item_number": 2,
+      "title": "Housing & Dangerous Buildings Case Cost Recovery - Contested",
+      "chunk_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "confidence": 1.0,
+      "notes": "Chunks discuss the expenses and procedures related to the contested housing and dangerous buildings cases."
+    },
+    {
+      "item_number": 3,
+      "title": "Housing & Dangerous Buildings Case Cost Recovery - Contested",
+      "chunk_ids": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "confidence": 1.0,
+      "notes": "Chunks provide details on specific cases, including testimonies and requests for fee waivers."
+    },
+    {
+      "item_number": 4,
+      "title": "Housing & Dangerous Buildings Case Cost Recovery - Contested",
+      "chunk_ids": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "confidence": 1.0,
+      "notes": "Chunks detail the case involving the independent family living trust, including inspections and property management issues."
+    },
+    {
+      "item_number": 5,
+      "title": "Housing & Dangerous Buildings Case Cost Recovery - Contested",
+      "chunk_ids": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "confidence": 1.0,
+      "notes": "Chunks cover the case regarding the property at 1020 Eleanor Avenue, including security issues and tenant problems."
+    },
+    {
+      "item_number": 6,
+      "title": "Housing & Dangerous Buildings Case Cost Recovery - Contested",
+      "chunk_ids": [
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "confidence": 1.0,
+      "notes": "Chunks discuss the second case for the same property, including the owner's challenges and the city's response."
+    }
+  ],
+  "global_notes": "All transcript chunks have been assigned to the corresponding agenda items based on the content and context of the discussions."
+}

@@ -1,0 +1,17 @@
+[start] 20260308T000002Z
+Files removed: 0
+Cache verified and compressed (~/.npm/_cacache)
+Content verified: 1967 (1159438670 bytes)
+Content garbage-collected: 4 (31385924 bytes)
+Index entries: 1967
+Finished in 45.091s
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           795M  1.1M  794M   1% /run
+/dev/sda1        96G   22G   75G  23% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda16      881M  117M  703M  15% /boot
+/dev/sda15      105M  6.2M   99M   6% /boot/efi
+tmpfs           795M   12K  795M   1% /run/user/0
+tmpfs           795M   12K  795M   1% /run/user/1001
+[done] 20260308T000142Z
