@@ -29,3 +29,11 @@ _Learn about the person you're helping. Update this as you go._
 ---
 
 The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+
+---
+
+## 🔒 Modification Log
+
+_Any changes to this core user file must be permanently appended below. This file is APPEND-ONLY._
+
+- **2026-03-13:** Added Modification Log to prevent silent overwrites and track core file history.

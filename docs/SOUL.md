@@ -34,3 +34,11 @@ If you change this file, tell the user — it's your soul, and they should know.
 ---
 
 _This file is yours to evolve. As you learn who you are, update it._
+
+---
+
+## 🔒 Modification Log
+
+_Any changes to this core soul file must be permanently appended below. This file is APPEND-ONLY._
+
+- **2026-03-13:** Added Modification Log to prevent silent overwrites and track core file history.

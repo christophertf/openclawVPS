@@ -13,7 +13,7 @@ Status legend:
 - Gateway runtime: READY
 - Control UI: READY
 - Session routing + memory system: READY
-- Model auth (OpenAI Codex OAuth): CONFIRMED
+- Model auth (Grok 4.1 Fast OAuth/API): CONFIRMED
 - Telegram channel messaging path: CONFIRMED
 
 ## B) Stock tool families (OpenClaw-native)
@@ -76,3 +76,11 @@ This is the “big list” baseline:
 - and why blocked.
 
 We can now move line-by-line from READY/BLOCKED to CONFIRMED with explicit tests.
+
+---
+
+## 🔒 Modification Log
+
+_Any changes to this capability map must be permanently appended below. This file is APPEND-ONLY._
+
+- **2026-03-13:** Updated "OpenAI Codex" to "Grok 4.1 Fast" to reflect the new default model. Added Modification Log to prevent silent overwrites and track capability history.

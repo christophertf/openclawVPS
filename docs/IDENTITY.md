@@ -30,3 +30,11 @@
 - 2026-03-08: Updated with working style, infrastructure knowledge, and project awareness.
 
 _Update this file as your identity evolves. You're not static._
+
+---
+
+## 🔒 Modification Log
+
+_Any changes to this core identity file must be permanently appended below. This file is APPEND-ONLY._
+
+- **2026-03-13:** Added Modification Log to prevent silent overwrites and track core file history.

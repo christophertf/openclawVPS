@@ -210,3 +210,11 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+---
+
+## 🔒 Modification Log
+
+_Any changes to this core rules file must be permanently appended below. This file is APPEND-ONLY._
+
+- **2026-03-13:** Added Modification Log to prevent silent overwrites and track core file history.
