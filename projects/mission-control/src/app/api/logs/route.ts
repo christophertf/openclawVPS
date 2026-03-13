@@ -17,6 +17,22 @@ const LOG_SOURCES = [
 
 const LINES_PER_LOG = 20;
 
+const HIDDEN_PATTERNS = [
+    /Download the React DevTools for a better development experience/i,
+    /React DevTools/i,
+    /Compiled in\s*\d+ms/i,
+];
+
+function shouldHideLine(line: string): boolean {
+    const s = line.trim();
+    if (!s) return true;
+    return HIDDEN_PATTERNS.some((p) => p.test(s));
+}
+
+function cleanLines(lines: string[]): string[] {
+    return lines.map((l) => l.trimEnd()).filter((l) => !shouldHideLine(l));
+}
+
 export const dynamic = "force-dynamic";
 
 export async function GET() {
@@ -33,9 +49,12 @@ export async function GET() {
                 timeout: 3000,
             });
 
+            const lines = cleanLines(tail.split("\n"));
+            if (lines.length === 0) continue;
+
             entries.push({
                 label: src.label,
-                lines: tail.split("\n").filter((l) => l.trim()),
+                lines,
                 mtime: stat.mtime.toISOString(),
                 size: stat.size,
             });
@@ -55,12 +74,15 @@ export async function GET() {
 
                 const latest = opStats[0];
                 const tail = execSync(`tail -n ${LINES_PER_LOG} "${path.join(opsDir, latest.name)}"`, { encoding: "utf8", timeout: 3000 });
-                entries.push({
-                    label: `ops: ${latest.name.replace('cron_', '').replace('.log', '').replace(/_/g, '-')}`,
-                    lines: tail.split('\n').filter(l => l.trim()),
-                    mtime: new Date(latest.mtime).toISOString(),
-                    size: fs.statSync(path.join(opsDir, latest.name)).size,
-                });
+                const lines = cleanLines(tail.split('\n'));
+                if (lines.length > 0) {
+                    entries.push({
+                        label: `ops: ${latest.name.replace('cron_', '').replace('.log', '').replace(/_/g, '-')}`,
+                        lines,
+                        mtime: new Date(latest.mtime).toISOString(),
+                        size: fs.statSync(path.join(opsDir, latest.name)).size,
+                    });
+                }
             }
         }
     } catch {
@@ -119,10 +141,11 @@ export async function GET() {
                 }
             }
 
-            if (lines.length > 0) {
+            const cleanedLiveLines = cleanLines(lines);
+            if (cleanedLiveLines.length > 0) {
                 entries.unshift({
                     label: "claw-live",
-                    lines: lines.slice(-15),
+                    lines: cleanedLiveLines.slice(-15),
                     mtime: new Date(files[0].mtime).toISOString(),
                     size: 0,
                 });
@@ -132,10 +155,43 @@ export async function GET() {
         // skip
     }
 
-    // Sort so claw-live is first, then by most recently modified
+    // Grab Antigravity live commands feed
+    try {
+        const agLogPath = "/home/claw/.openclaw/workspace/ops/logs/antigravity-live.log";
+        if (fs.existsSync(agLogPath)) {
+            const stat = fs.statSync(agLogPath);
+            const tail = execSync(`tail -n 15 "${agLogPath}"`, {
+                encoding: "utf8",
+                timeout: 3000,
+            });
+            const lines = cleanLines(tail.split("\n"));
+            if (lines.length > 0) {
+                // remove duplicates that might appear rapidly
+                const deduped: string[] = [];
+                for (const l of lines) {
+                    if (deduped.length === 0 || deduped[deduped.length - 1] !== l) {
+                        deduped.push(l);
+                    }
+                }
+                entries.unshift({
+                    label: "antigravity-live (model-35)",
+                    lines: deduped.slice(-15),
+                    mtime: stat.mtime.toISOString(),
+                    size: stat.size,
+                });
+            }
+        }
+    } catch {
+        // skip
+    }
+
+    // Sort so live feeds are first, then by most recently modified
     entries.sort((a, b) => {
-        if (a.label === "claw-live") return -1;
-        if (b.label === "claw-live") return 1;
+        const aLive = a.label.includes("-live");
+        const bLive = b.label.includes("-live");
+        if (aLive && !bLive) return -1;
+        if (!aLive && bLive) return 1;
+        if (aLive && bLive) return a.label.localeCompare(b.label); // sort live feeds alphabetically
         return new Date(b.mtime).getTime() - new Date(a.mtime).getTime();
     });
 
