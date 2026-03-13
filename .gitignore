@@ -3,3 +3,6 @@ secret_test.txt
 .trash/
 tmp/
 .venv/
+reports/
+state/
+*.bak.*

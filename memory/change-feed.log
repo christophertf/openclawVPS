@@ -40,3 +40,4 @@
 2026-03-12T12:30:18Z [CLAW] Installed always-on cron runners and executed initial all-loop run (ingest/research/validation/reporting). Artifacts: reports/always_on/*, state/always_on/status.json.
 2026-03-13T01:05:00Z [Antigravity] Verified and finalized swap of primary model to Grok 4.1 Fast, backed up baseline config openclaw.json and always_on_runner.sh.
 2026-03-13T01:12:00Z [Antigravity] Removed mistakenly tracked root clutter files from repository (AGENTS.md, HEARTBEAT.md, IDENTITY.md, MEMORY.md, SOUL.md, TOOLS.md, USER.md, USG_value_sheet.csv, claw.code-workspace) that were left over from repo reorganization.
+2026-03-13T01:19:00Z [Antigravity] Added reports/, state/, and backup scripts (*.bak.*) to .gitignore to prevent them from constantly showing as untracked files in source control.
