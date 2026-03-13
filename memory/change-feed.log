@@ -26,10 +26,16 @@
 2026-03-08T06:42:00Z Antigravity: disabled Next.js dev indicator icon, updated change-feed.log with today's session activity.
 2026-03-08T07:49:44Z [CLAW] Mission Control: added dashboard heartbeat monitor (last run timestamp, result summary, schedule state from session logs + openclaw heartbeat cadence) in projects/mission-control/src/app/page.tsx
 2026-03-08T08:15:00Z Antigravity: Migrated ops scripts and logs from CASE_FILES to .openclaw/workspace/ops, updated crontab to use Los Angeles timezone locally.
-2026-03-08T08:35:00Z [Antigravity (model-37)] Refactored TerminalWindow from click tabs to a side-by-side continuous multi-pane view, increased window height so all system logs can be monitored passively simultaneously.
+2026-03-08T08:35:00Z [Antigravity (model-35)] Refactored TerminalWindow from click tabs to a side-by-side continuous multi-pane view, increased window height so all system logs can be monitored passively simultaneously.
 2026-03-08T10:23:02Z [CLAW] Added user preference to USER.md: proactively escalate when blocked and unable to self-fix.
-2026-03-08T10:25:00Z [Antigravity (model-37)] Mass commit of 1130 workspace changes, including dashboard redesign, cpra engine, and feed refactors.
-2026-03-08T10:39:00Z [Antigravity (model-37)] Removed accidentally tracked .venv and added to .gitignore.
-2026-03-08T10:55:00Z [Antigravity (model-37)] Layout refresh: moved full-width Terminal Feed up, simplified top tiles, combined Heartbeat into Scheduled Automation.
-2026-03-08T11:00:00Z [Antigravity (model-37)] Dashboard tweaks: Swapped "Last Active Project" and "Recent Activity" cards.
-2026-03-08T11:15:00Z [Antigravity (model-37)] Repository Reorganization: Moved root level assets into docs, data, and metadata for a cleaner top-level structure. Updated Mission Control paths across all pages to match. Restored personal identity, user, soul, and memory files accidentally swapped for defaults during reorganization.
+2026-03-08T10:25:00Z [Antigravity (model-35)] Mass commit of 1130 workspace changes, including dashboard redesign, cpra engine, and feed refactors.
+2026-03-08T10:39:00Z [Antigravity (model-35)] Removed accidentally tracked .venv and added to .gitignore.
+2026-03-08T10:55:00Z [Antigravity (model-35)] Layout refresh: moved full-width Terminal Feed up, simplified top tiles, combined Heartbeat into Scheduled Automation.
+2026-03-08T11:00:00Z [Antigravity (model-35)] Dashboard tweaks: Swapped "Last Active Project" and "Recent Activity" cards.
+2026-03-08T11:15:00Z [Antigravity (model-35)] Repository Reorganization: Moved root level assets into docs, data, and metadata for a cleaner top-level structure. Updated Mission Control paths across all pages to match. Restored personal identity, user, soul, and memory files accidentally swapped for defaults during reorganization.
+2026-03-08T19:12:00Z [Antigravity] Corrected previous mislabeled log entries in change-feed.log from model-37 to model-35.
+2026-03-12T11:53:55Z [CLAW] Enabled OpenRouter profile + API key in openclaw.json and added initial model aliases (grok-legal/router-cheap/router-verify) for routing experiments.
+2026-03-12T12:20:15Z [CLAW] Documented OpenRouter integration + model routing verification in memory/2026-03-12.md and MEMORY.md; refreshed USER.md with proactive always-on expectations and blocker escalation preference.
+2026-03-12T12:26:03Z [CLAW] Started always-on buildout: created docs/ALWAYS_ON_CLAW_PLAN.md, state/always_on/status.json, scripts/always_on_tick.sh, and initialized runs under reports/always_on/.
+2026-03-12T12:30:18Z [CLAW] Installed always-on cron runners and executed initial all-loop run (ingest/research/validation/reporting). Artifacts: reports/always_on/*, state/always_on/status.json.
+2026-03-13T01:05:00Z [Antigravity] Verified and finalized swap of primary model to Grok 4.1 Fast, backed up baseline config openclaw.json and always_on_runner.sh.

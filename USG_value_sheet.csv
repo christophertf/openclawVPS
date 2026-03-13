@@ -1,0 +1,12 @@
+sku,item,storage_cu_in,public_price_usd,public_usd_per_cu_in,active_deal_price_usd,active_deal_type,active_deal_expiration,active_deal_usd_per_cu_in,notes
+71214,"U.S. GENERAL 30 in. 1-Drawer Service Cart",3780,,,,,,,"Public price not exposed on scraped SKU page; no active deal verified"
+58072,"U.S. GENERAL 34 in. Full Bank Service Cart",18700,599.99,0.0321,,,,,"No active deal verified"
+58715,"U.S. GENERAL 27 in. x 22 in. Top Chest S3",7600,249.99,0.0329,,,,,"No active deal verified"
+58721,"U.S. GENERAL 27 in. x 22 in. Roll Cab S3",10900,399.99,0.0367,,,,,"No active deal verified"
+70336,"U.S. GENERAL 42 in. x 22 in. Top Chest S3",14100,449.99,0.0319,349.99,ITC,2026-04-02,0.0248,"Active ITC deal verified"
+58723,"U.S. GENERAL 42 in. x 22 in. Roll Cab S3",16700,529.99,0.0317,,,,,"Coupon pages show conflicting/stale date text; no active deal verified"
+58712,"U.S. GENERAL 56 in. x 22 in. Top Chest S3",20100,,,,,,,"Public price not exposed on scraped SKU page; no active deal verified"
+70345,"U.S. GENERAL 56 in. x 22 in. Roll Cab S3",23500,899.99,0.0383,,,,,"No active deal verified (latest 789.99 page expired)"
+58708,"U.S. GENERAL 72 in. x 22 in. Triple Bank Top Chest S3",25300,999.99,0.0395,,,,,"No active deal verified"
+58710,"U.S. GENERAL 72 in. x 22 in. Triple-Bank Roll Cab S3",29700,1499.99,0.0505,,,,,"Coupon pages show conflicting/stale date text; no active deal verified"
+70354,"U.S. GENERAL 15 in. End Cabinet S3",5000,279.99,0.0560,,,,,"No active deal verified"
