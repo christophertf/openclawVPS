@@ -42,3 +42,4 @@
 2026-03-13T01:12:00Z [Antigravity] Removed mistakenly tracked root clutter files from repository (AGENTS.md, HEARTBEAT.md, IDENTITY.md, MEMORY.md, SOUL.md, TOOLS.md, USER.md, USG_value_sheet.csv, claw.code-workspace) that were left over from repo reorganization.
 2026-03-13T01:19:00Z [Antigravity] Added reports/, state/, and backup scripts (*.bak.*) to .gitignore to prevent them from constantly showing as untracked files in source control.
 2026-03-13T01:28:00Z [Antigravity] Secured core identity/profile files (IDENTITY.md, SOUL.md, USER.md, AGENTS.md, STOCK-CAPABILITY-MAP.md) by appending a strict Modification Log section to each to track history and prevent silent overwrites. Also explicitly updated the default model record from OpenAI Codex to Grok 4.1 Fast on the capability map.
+2026-03-13T01:30:00Z [Antigravity] Updated Mission Control package.json to explicitly bind Next.js dev server to port 3040 instead of the default 3000.
